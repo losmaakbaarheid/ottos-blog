@@ -35,3 +35,19 @@ Ok maybe another example concerning the evolution of mankind: the loss of melani
 ![neander.jpeg](/neander.jpeg)
 
 There is one more big question mark involving the evolution of mankind as it is taught at schools. History has unfortunately shown us that it is a clear advantage to have (almost) no conscience. Look at many leaders of important countries over say the last 100 years. The row of leaders who had no problems killing millions of people is long: Putin, Hitler, Mao, Stalin, Pol Pot and so on. It is no coincidence that leaders often are more ruthless than the average people. And that has always been so. Alexander the Great, Julius Ceasar, Genghis Khan, Napoleon. These men wrote our history. So they were obviously the ‘fittest’ in their times and maybe in all times. But still, fortunately(!!!), for some reason humankind has not adopted their variations in DNA. We have not less conscience than the Romans had. Loosing conscience is obviously no part of our evolution. And again that seems to be not in line with the Evolution Theory, as we know it. It even contradicts the principle of the ‘survival of the fittest’.
+
+![julius.jpg](/julius.jpg)![napoleon.jpg](/napoleon.jpg)
+
+Some years ago a bit different kind of Evolution Theory was proposed. The theory was that there is some kind of goal within the evolution. That it is not a random process but a more or less guided process. That indeed could explain why the development of the intelligence of mankind over the last say 100.000 to 1.000.000 years was a continuing process, with its ups and downs of course. This is hard if not impossible to explain on the basis of the common Evolution Theory, as I explained before. To believe in an evolution with some kind of program or goal in it looks like believing in some kind of higher power. Therefor the theory of a more or less guided evolution was rejected because that would in the opinion of scientists imply the existence of something super natural. I think this is not so by definition and I even think that a non-guided evolution that results in a clear course over a long period of time, is very unlikely if there is no a clear constant or periodic trigger.
+
+![rare space truck.png](/rare%20space%20truck.png)
+
+And let’s face it. How plausible is it, that a ‘system’ without any intelligence, driven solely by coincidences, results in a species that is capable of and has the intelligence to formulate the laws of nature? It that not illogic? Time and large numbers should be the explanation. I can screw billions of times materials together but not once by coincidence it will become a car or a plane. And a cell of a living creature has at least the same kind of complexity if not (way) bigger. Why does nature follow rules, why should stars and planets follow rules, but are life and the evolution of life just random processes dictated by coincidences? To my opinion we don’t know these rules yet and so call it, out of some kind of urge to fill all the gaps in our knowledge, ‘coincidences’.
+
+**Coincidence is the word mostly used to explain an event, relation or result that we do not understand. A word we should use with much more care than we do nowedays.**
+
+![coincidence als we iets niet weten.png](/coincidence%20als%20we%20iets%20niet%20weten.png)
+
+One last word before explaining my theory about the evolution of life. Please read it with an open mind! What does that mean with regard to this specific subject? That ‘coincidence’ (yes there is this word again) doesn’t exclude by definition a creator (why shouldn’t coincidences be a tool of this creator to make evolution less predictable?) and that a ‘non-coincidence’ (everything that happens more often or less then random) include by definition a creator (for instance if you bounce a ball with the same force the distance that it bounces back is not random. Nobody sees that as an act of god).
+
+![coincidence creator.png](/coincidence%20creator.png)
