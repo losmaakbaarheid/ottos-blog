@@ -81,7 +81,7 @@ If certain regions have a bigger than average chance to mutate, if these regions
 
 **A focused trait is a trait that has a determining effect on the evolution of a species, resulting in a gradually and steadily development in time of this trait towards a higher level, due to an (active or passive) inheritable susceptibility for mutations in the region(s) of the genome that determine(s) this trait. This inheritability means that offspring has a bigger than random chance to inherit this specific susceptibility. Both the favourable susceptibility and the inheribility could be an evolutionary result.**
 
-![focused trait1.png](/focused%20trait1.png)
+![focused trait1.png](/focused%20trait1.png){style="height: 100px; margin: 0 auto;"}
 
 Logically human intelligence could be a focused trait of mankind. Could there be more focused traits in the genome of the human species? Yes I think so. Like ‘walking upright’, like ‘language’, like ‘enjoying music and other arts’, like ‘fine motor skills’ and like ‘morality and religion’. I don’t want to imply that no other species have none of these traits but not in the scope human beings have them. Beside these traits we have way more traits but those are not more developed in mankind than in other mammals. Like running, smelling, seeing, digesting, breathing, growing hair, aggression, feeling fear, sexual drift and so on. Estimates indicate that humans have thousands and thousands of traits. And so have other species. Focused traits represent only a fraction of that number and could be as little as, I guess, 1-2% of all traits that a species has.
 
