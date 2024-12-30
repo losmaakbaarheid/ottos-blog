@@ -156,7 +156,9 @@ If we look at, at least concerning the phenotype (the species as we see and expe
 1. The critical variation of the DNA/RNA region concerning NI was in the situation of the ancestors of humans and apes bigger;
 2. The critical variation of the DNA/RNA region concerning NI was in the situation of the ancestors of humans and apes more essential;
 3. The critical variation of the DNA/RNA region concerning NI hit in the situation of the ancestors of humans and apes a bigger group, so the process of change had a bigger and faster impact (more favourable).
+
 Or/and:
+
 4. The evolutionary trigger of humans and/or apes was more often triggered (active susceptibility) or the concerning DNA regio was in humans and/or apes less stable (passive susceptibility);
 5. The evolutionary trigger of humans and/or apes had a bigger effect at the moments it was triggered (active susceptibility) or the instability in the concerning DNA regio was in humans and/or apes more essential (passive susceptibility).
 
