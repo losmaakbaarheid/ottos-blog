@@ -16,10 +16,48 @@ You could think: what a ignorance or even arrogance to assume that mutations in 
 
 ![mutation bias.png](/mutation%20bias.png){style="height: 50px; margin: 0 auto;"}
 
-/They found that the genetic variation in a genome was not random and tended to be much lower around parts of the genome involved in the most important traits of the investigated species (plant called Arabidopsis). These parts seemed to be protected from mutations and in the same regions DNA damage repair seemed to act more actively. You can imagine that this sounds quiet logic because mutations/damages in these parts could easily finish the viability of the concerning living creature. In the same regions inhibiting epigenetic features were more common. As the word says they inhibit mutations. And it becomes even more striking. They also found that these epigenetic features were less than average present in and around the more specialized genes that were associated with environmental responses and so will have a bigger chance on genetic variations. So the genes responsible for adapting to a changing environment. And finally these scientists stated that these mutations seemed to be more important than natural selection to adapt to these changing circumstances. If these findings are accurate and will be supported by other findings resulting from research on other species, the presented theory of a directional evolution will become will get a scientific basis.
+They found that the genetic variation in a genome was not random and tended to be much lower around parts of the genome involved in the most important traits of the investigated species (plant called Arabidopsis). These parts seemed to be protected from mutations and in the same regions DNA damage repair seemed to act more actively. You can imagine that this sounds quiet logic because mutations/damages in these parts could easily finish the viability of the concerning living creature. In the same regions inhibiting epigenetic features were more common. As the word says they inhibit mutations. And it becomes even more striking. They also found that these epigenetic features were less than average present in and around the more specialized genes that were associated with environmental responses and so will have a bigger chance on genetic variations. So the genes responsible for adapting to a changing environment. And finally these scientists stated that these mutations seemed to be more important than natural selection to adapt to these changing circumstances. If these findings are accurate and will be supported by other findings resulting from research on other species, the presented theory of a directional evolution will become will get a scientific basis.
 
 One can even wonder if something like a ‘positive susceptibility’ could be possible: that the chances on a positive mutation becomes larger and the chances on a neutral or negative mutation smaller. RNA knows where the proteins are needed the most. So if SRP knows where proteins are the most needed maybe there is also something like a molecular process that repairs negative mutations but don’t react on positive mutations. Does that demand too much intelligence of the DNA? Could be, so I won’t go that way and still let the evolution of a trait and the internal and external circumstances decide what is a positive mutation and what isn’t.
 
 **In this presentation ‘susceptibility’ is defined as a greater than random chance to get a mutation in the concerning region of the genome influencing one or more specific traits of a species, due to a trigger activated by interior or exterior circumstances affecting this region (‘active susceptibility’) and/or due to a lesser than average protection against mutation of this region (‘passive susceptibility’) and/or due to any other genome related influence leading to a greater than random chance of a specific mutation.**
 
 ![susceptibility.png](/susceptibility.png){style="height: 200px; margin: 0 auto;"}
+
+The theory that external or internal circumstances could favour specific mutations looks even more a contradiction opposite to the random mutations according to the Evolution Theory. So even more a bold statement. But Wielgos S at all. published in 2013 results from a research with the title “\_Mutation rate dynamics in a bacterial population reflect tension between adaptation and genetic load\_”. And they found that bacteria showed hypermutability in order to adapt to new conditions. And in this document the researchers wrote about a strong influence from the environment. So they found a clear relation between the circumstances in the outside world and the occurrence of mutations. They even wrote that this hypermutation enabled a population to avoid extinction. It is not clear, if these mutations were random or in accordance with their NI. But you can imagine that an extreme number of mutations within a short period going in every direction is waste and is like shooting with buckshot on a fly. No, far worse than that! Because if a huge number of random mutations happen by far the highest percentage of these would be negative so this would increase the life threatening situation instead of the opposite.
+
+![mutation rate dynamics artikel.png](/mutation%20rate%20dynamics%20artikel.png){style="height: 50px; margin: 0 auto;"}
+
+Another research done by Toon Swings at al. published with the tittle “\_Adaptive tuning of mutation rates allows fast response to lethal stress in Escherichia coli\_” gave some information about that: \_specific mutations allow organism to adept to stressful environments. As soon as the right adaptation is reached, the mutation rate declines. Cellular mortality appeared to be the major force driving the quick evolution of mutation rates.\_
+
+![adaptive tunning artikel.png](/adaptive%20tunning%20artikel.png){style="height: 50px; margin: 0 auto;"}
+
+Devon M. Fitzgerald and Susan M. Rosenberg wrote in an article with the title “\_How microbes “jeopardize” the modern syntheses”\_ the following: \_Mutations were assumed to occur by chance: constantly, gradually, roughly uniformly in genomes and without regard to environmental input. But recent discoveries reveal a totally different picture of highly regulated mutagenesis, up-regulated temporally by stress responses and activated when cells/organisms are maladapted to their environment potentially accelerating adaption. And mutation is also not random in genomic space, with multiple simultaneous mutations in local clusters which may allow concerted evolution.\_
+
+![microbes jeopardize artikel.png](/microbes%20jeopardize%20artikel.png){style="height: 50px; margin: 0 auto;"}
+
+Very interesting words in these articles are:  
+
+·       \_hypermutability in order to adapt to new conditions\_
+
+·       \_a strong influence from the environment\_
+
+·       \_hypermutation enables a population to avoid extinction\_
+
+·       \_specific mutations allow organism to adept to stressful environments.\_
+
+·       \_as soon as the right adaptation is reached, the mutation rate declines.\_
+
+·       \_cellular mortality appeared to be the major force driving the quick evolution of mutation rates.\_
+
+·       \_up-regulated temporally by stress responses and activated when cells/organisms are maladapted to their environment potentially accelerating adaption.\_
+
+·       \_and mutation is also not random in genomic space, with multiple simultaneous mutations in local clusters which may allow concerted evolution.\_
+
+Even more recent studies clearly indicate that evolution is not completely random and so not completely unpredictable. One more interesting study was published in the \_Proceedings of the National Academy of Sciences\_ (\_PNAS\_). This study was led by Professor James McInerney and Dr. Alan Beavan from the School of Life Sciences at the University of Nottingham, and Dr. Maria Rosa Domingo-Sananes from Nottingham Trent University.
+
+![evolution is not as randomly as previously.png](/evolution%20is%20not%20as%20randomly%20as%20previously.png){style="height: 50px; margin: 0 auto;"}
+
+One conclusion was that the evolutionary trajectory of a genome may be influenced by its evolutionary history, rather than determined by numerous factors and historical accidents. You could translate “influenced by its evolutionary history” as some kind of inheritability and as an evolutionary direction.
+
+![desert.jpeg](/desert.jpeg){style="height: 300px; margin: 0 auto;"}
