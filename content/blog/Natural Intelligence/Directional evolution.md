@@ -90,4 +90,4 @@ If certain regions have a bigger than average chance to mutate, if these regions
 
 **A focused trait is a trait that has a determining effect on the evolution of a species, resulting in a gradually and steadily development in time of this trait towards a higher level, due to an (active or passive) inheritable susceptibility for mutations in the region(s) of the genome that determine(s) this trait. This inheritability means that offspring has a bigger than random chance to inherit this specific susceptibility. Both the favourable susceptibility and the inheribility could be an evolutionary result.**
 
-![focused trait1.png](/focused%20trait1.png){style="height: 75px; margin: 0 auto;"}
+![focused trait1.png](/focused%20trait1.png)
