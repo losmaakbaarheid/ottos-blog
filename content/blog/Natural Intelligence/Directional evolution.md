@@ -169,3 +169,5 @@ By the way: if you wonder if indeed the genetic differences (genotype) between a
 Research indicates that the adaptive evolution of mankind after ‘the split’ was relatively limited (which by the way I can’t follow) and that the adaptive evolution of chimpanzees was significantly bigger. But, maybe surprisingly, in the past not so much research has bene done in relation to the development of the human brain. Ethical issues could be the reason behind that.
 
 The three diagrams below more or less summarize the possible evolutionary processes concerning the population of a species and its better fit. This is a schematic presentation bases on the assumption that the biosphere keeps constant and so offers a living to the same population size.
+
+![evo without iso.png](/evo%20without%20iso.png){style="height: 300px; margin: 0 auto;"}![grafiek specificatie volgens ET.png](/grafiek%20specificatie%20volgens%20ET.png){style="height: 300px; margin: 0 auto;"}![grafiek directional ET.png](/grafiek%20directional%20ET.png){style="height: 300px; margin: 0 auto;"}
