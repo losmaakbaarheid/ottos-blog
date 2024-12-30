@@ -187,4 +187,4 @@ The following influences could limit or even block the occurrence and/or evoluti
 
 NI could have three effects: giving direction to the evolution of a species, excluding evolutionary directions and limiting the process of evolution in respect to certain traits. For instance that could limit the human intelligence and explain why there have been no further growth of human intelligence over the last thousands of year. If indeed this is incorporated in DNA that would also explain why the process of evolution will likely not spin out of control. How could the evolution of a trait be blocked by DNA? By ending its susceptibility and giving the concerning regions an enhanced defence against mutations. I would like to call that negative susceptibility. Or even by changing the code, production of proteins and so on.
 
-![ni 3 aspects.png](/ni%203%20aspects.png){style="height: 60px; margin: 0 auto;"}
+![ni 3 aspects.png](/ni%203%20aspects.png){style="height: 100px; margin: 0 auto;"}
