@@ -22,4 +22,4 @@ One can even wonder if something like a ‘positive susceptibility’ could be p
 
 **In this presentation ‘susceptibility’ is defined as a greater than random chance to get a mutation in the concerning region of the genome influencing one or more specific traits of a species, due to a trigger activated by interior or exterior circumstances affecting this region (‘active susceptibility’) and/or due to a lesser than average protection against mutation of this region (‘passive susceptibility’) and/or due to any other genome related influence leading to a greater than random chance of a specific mutation.**
 
-![susceptibility.png](/susceptibility.png){style="height: 250px; margin: 0 auto;"}
+![susceptibility.png](/susceptibility.png){style="height: 200px; margin: 0 auto;"}
