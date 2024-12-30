@@ -38,21 +38,14 @@ Devon M. Fitzgerald and Susan M. Rosenberg wrote in an article with the title �
 
 Very interesting words in these articles are:  
 
-·       \_hypermutability in order to adapt to new conditions\_
-
-·       \_a strong influence from the environment\_
-
-·       \_hypermutation enables a population to avoid extinction\_
-
-·       \_specific mutations allow organism to adept to stressful environments.\_
-
-·       \_as soon as the right adaptation is reached, the mutation rate declines.\_
-
-·       \_cellular mortality appeared to be the major force driving the quick evolution of mutation rates.\_
-
-·       \_up-regulated temporally by stress responses and activated when cells/organisms are maladapted to their environment potentially accelerating adaption.\_
-
-·       \_and mutation is also not random in genomic space, with multiple simultaneous mutations in local clusters which may allow concerted evolution.\_
+- _hypermutability in order to adapt to new conditions_
+- _a strong influence from the environment_
+- _hypermutation enables a population to avoid extinction_
+- _specific mutations allow organism to adept to stressful environments_
+- _as soon as the right adaptation is reached, the mutation rate declines_
+- _cellular mortality appeared to be the major force driving the quick evolution of mutation rates_
+- _up-regulated temporally by stress responses and activated when cells/organisms are maladapted to their environment potentially accelerating adaption_
+- _and mutation is also not random in genomic space, with multiple simultaneous mutations in local clusters which may allow concerted evolution._
 
 Even more recent studies clearly indicate that evolution is not completely random and so not completely unpredictable. One more interesting study was published in the \_Proceedings of the National Academy of Sciences\_ (\_PNAS\_). This study was led by Professor James McInerney and Dr. Alan Beavan from the School of Life Sciences at the University of Nottingham, and Dr. Maria Rosa Domingo-Sananes from Nottingham Trent University.
 
@@ -105,3 +98,13 @@ Evans, Patrick D. at al. wrote in the publication “\_Microcephalin, a Gene Reg
 _The gene Microcephalin (MCPH1) regulates brain size and has evolved under strong positive selection in the human evolutionary lineage. We show that one genetic variant of Microcephalin in modern humans, which arose \~37,000 years ago, increased in frequency too rapidly to be compatible with neutral drift. This indicates that it has spread under strong positive selection, although the exact nature of the selection is unknown. The finding that an important brain gene has continued to evolve adaptively in anatomically modern humans suggests the ongoing evolutionary plasticity of the human brain._
 
 ![microcephalin.png](/microcephalin.png){style="height: 50px; margin: 0 auto;"}
+
+With respect to NI and so ‘directional evolution’ a couple of words are very interesting: “\_under strong positive selection\_”, “\_frequency too rapidly to be compatible with neutral drift”,\_ “\_the exact nature of the selection is unknown\_”. Well the nature that can explain this strong positive selection and the speed of this process is the NI of humans; a more than random chance of mutations in the region of these genes due to their susceptibility. Another explanation could be a higher fitness (for mutations) that humans could possess compared to other primates. But other researches indicate that the genes of chimpanzees have had more mutations than the genes of mankind so to me that explanation looks less likely if not unlikely.
+
+Limited to mankind those influencing circumstances (or even without them, if we talk about a passive susceptibility) would mean a (small) increase of human intelligence (and so by definition not any other trait that could also have given a better fit in these circumstances) that would make it possible for us to adept to these changing and maybe even threatening circumstances. So based on the incorporation in our DNA/RNA of a programmed intelligence (NI), that may be triggered if needed or that may be there all the time, we do not need anything super natural. And that can indeed explain the more or less constant growth of intelligence of humans over a (in human terms) very long period of time, something the Evolution Theory can’t. So focused traits will have a bigger impact on the evolution of a species than ‘survival of the fittest’ has. But in the end this broadly accepted dogma has indeed the last word, because it determines if this more than random mutation of a focused trait will be a favourable one or not for the individuals that carry this mutation (if the starting point is that in the situation of focused mutations the chance of a \_positive\_ mutation is not bigger than in the situation of random mutations).
+
+![directional revolution getrapt.png](/directional%20revolution%20getrapt.png){style="height: 300px; margin: 0 auto;"}
+
+_Note:   This presentation of the rate of mutations is simplified in order to make it more transparent. For instance in reality the rate of mutation will increase with the size of the population._
+
+The theory of focused traits can also explain why not every species develops in the same direction – for instance a growing ‘human’ intelligence - because say food shortage triggers another region (gene) of their DNA/RNA and so initiates a change in these active genes and/or produced proteins which in their turn lead to the improvement of another trait, their focused trait, which has given and gives them in this way in their environment the needed (improved) capacities. And this over and over again. It is also possible, like the given example of the fast swimming fish, that just the inheritance of a less stable or less protected region of the genome on its own may already offer this same improvement over and over again. So at more random moments and so not triggered by specific circumstances. In the standard’ Evolution Theory these possibilities and processes are not incorporated.
