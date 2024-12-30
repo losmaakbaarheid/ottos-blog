@@ -207,7 +207,7 @@ Studies have been made, on a theoretical basis and a more practical basis, to se
 - Probably there is an end to every positive trait that a specific gene code can offer (so also a limitation to the evolutionary drive of ‘survival of the fittest’).
 - Other traits and physical restrains influence how beneficial a focused trait can be. We could qualify that as an ‘survival of an internal fit’.
 
-![survival internal fit.png](/survival%20internal%20fit.png){style="height: 50px; margin: 0 auto;"}
+![survival internal fit.png](/survival%20internal%20fit.png){style="height: 80px; margin: 0 auto;"}
 
 To give an example: why are birds not becoming bigger and bigger? Because that would demand longer wings. And that would in its turn result in heavier bones. But extra weight ask for bigger wings. So this evolutionary process ends somewhere; at a certain moment there is no internal fit possible anymore. Sometimes traits can be linked and so is their evolution. This is called Phenotypic integration. That can be beneficial in reaching an internal fit and extent the mentioned limit. Later more on this.
 
