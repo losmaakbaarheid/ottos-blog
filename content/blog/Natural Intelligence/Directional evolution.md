@@ -112,3 +112,15 @@ The theory of focused traits can also explain why not every species develops in 
 What about the finches on the Galapagos Islands? Did they develop their bowed beaks because of any susceptibility in their genes? That could have been the situation. If we look at an active susceptibility food shortage could have been a trigger. But is it logical that there was something in their DNA/RNA that these kind of circumstances would lead to such an effect? Possibly but not necessarily. So the Evolution Theory looks to be a good or maybe  in these situations even the best explanation. But if you combine it with Natural Intelligence (NI) much more can be explained and understood than without this significant addition. Both complement each other.
 
 ![finches.png](/finches.png)
+
+The fact that the brains of some mammals also grew during their evolution, but way less than in humankind, can also be seen as an example fitting within the Evolution Theory. The focus of their NI was not on human intelligence but nevertheless the ‘survival of the fittest’ did have some influences on their brains with a positive effect as a result, but not focused and so not comparable with the growth of human intelligence appearing in mankind over the same period of time.
+
+By the way: is the fact, that a coincidental variation in the DNA can give a better fit, indeed nothing but a coincidence? Is it not striking that, there where coincidences are the driving force, there are mutations and also so many chances? Look at how many seeds trees produce every spring. Or the almost immeasurable number of sperm cells men produce during their lives. It looks like waste but it could also be a way to make the chance of a coincidence and of a positive outcome bigger. So indeed ‘coincidences’ don’t exclude some kind of a creator……
+
+There is also something else. It becomes more and more clear that the development of new variations and species happened more quickly than presumed so far. See for instance ‘Nature’ 29 May 2022: \_New research suggests that Darwinian evolution could be happening up to four times faster than previously thought.\_
+
+![evolution goes faster.png](/evolution%20goes%20faster.png){style="height: 50px; margin: 0 auto;"}
+
+So if the appropriate variation of the DNA is not limited to one individual and if this variation is not in random directions, that could explain why these processes of evolution or even of specification (origin of a new species) seem to go more rapidly than expected on the basis of just the Evolution Theory.
+
+![many chicken.png](/many%20chicken.png){style="height: 300px; margin: 0 auto;"}
