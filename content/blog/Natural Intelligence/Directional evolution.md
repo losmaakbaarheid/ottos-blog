@@ -99,3 +99,9 @@ Let us take a closer look at this one outstanding focused trait of mankind: his 
 Bruce Lahn, the senior author at the Howard Hughes Medical Centre at the University of Chicago and his colleagues have suggested that there are specific genes that control the size of the human brain. These genes continue to play a role in brain evolution, implying that the brain is continuing to evolve. The acquired data - obtained from humans, macaques, rats and mice - showed that the genes in the human brain evolved much faster than those in the other species. So the NI of humans including their focused trait could be the right if not only explanation for this striking difference.
 
 ![grafiek directional evolution.png](/grafiek%20directional%20evolution.png){style="height: 300px; margin: 0 auto;"}
+
+Evans, Patrick D. at al. wrote in the publication “\_Microcephalin, a Gene Regulating Brain Size, Continues to Evolve Adaptively in Humans\_” the following: 
+
+_The gene Microcephalin (MCPH1) regulates brain size and has evolved under strong positive selection in the human evolutionary lineage. We show that one genetic variant of Microcephalin in modern humans, which arose \~37,000 years ago, increased in frequency too rapidly to be compatible with neutral drift. This indicates that it has spread under strong positive selection, although the exact nature of the selection is unknown. The finding that an important brain gene has continued to evolve adaptively in anatomically modern humans suggests the ongoing evolutionary plasticity of the human brain._
+
+![microcephalin.png](/microcephalin.png){style="height: 50px; margin: 0 auto;"}
