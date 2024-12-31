@@ -96,3 +96,17 @@ If we look at mankind the theory, as proposed here, is that millions of years ag
 - Is it not too simple to think that human concepts as ‘intelligence’ and ‘tree climbing’ are straight forward programmed in the relevant DNA-region? 
 
 ![aapmens.jpg](/aapmens.jpg){style="height: 300px; margin: 0 auto;"}
+
+To answer the first question is hard. In the same period apes had their origine. By the way: the differences between apes and our common ancestors seem to me way smaller that between humans and these ancestors. This split could have to do with less food on ground level or more competition. I have no clue if such a period has occurred between 6 to 9 million years ago. But one could image that (better) climbing into trees on the one hand and human intelligence on the other could both have been answers to such a situation. Or the split was just caused by a coincidental mutation, so a mutation not in line with the existing NI of our ancestors, leading to a new successful focus of the NI. If we are talking about humans.
+
+I found some interesting information on the internet in relation to the evolutionary changes in the bony labyrinth in the head of the ancestors of men versus the ancestors of apes. This evolution of the bony labyrinth played an important role in the process that made it possible for men to stand straight up. The period, during which an increased speed of change of the bony labyrinth took place, corresponds with a period of cooler global temperatures about 3.2 million years ago.
+
+The answer on the second question could be the same as the basis under the Evolution Theory: chance, coincidence. Or maybe even this was programmed. So some kind of positive susceptibility. But, as mentioned before, maybe that asks for too much intelligence in the evolution of life. So let us still go for coincidence. Indeed for as long as we can’t give another motivated explanation.
+
+During the transition period of 3 million years many times the NI defining regions of the DNA/ could have been triggered or damaged. Often in accordance with their NI but also from time to time differing from that. Part of these other mutations would have failed. Mutations, which had a relation with (human) intelligence and with tree climbing, proved to be successful to survive in this period and so led to the primates as we know them today and to the obvious differences we see between apes and humans.
+
+The third question is also a hard one. Even now we don’t know how human’s intelligence works. We know that different parts of our brains are involved and that this can differ between persons. But how this is programmed in our DNA/RNA is still partly a puzzle. One person is more intelligent than another. So will one chimpanzee be better in climbing trees than another chimpanzee. But this has primarily to do with the ‘normal’ regions of DNA and all kind of other influences.
+
+So let us take a closer look at apes or even at chimpanzees. What are the traits that improved their climbing capacities? Lower weight, longer arms, stronger muscles in the arms and chest, rapid and exact coordination, very good eyesight, flexibility. So does the NI of chimpanzees imply that all these (at least) six traits are programmed as an evolutionary focus and so are more susceptible in the DNA regions, that define their Natural Intelligence? That is quiet something. Maybe this explains why there are more than one species of apes (against only one type of human).
+
+![apes.jpg](/apes.jpg)
