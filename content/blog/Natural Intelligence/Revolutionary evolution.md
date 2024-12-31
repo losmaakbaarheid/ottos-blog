@@ -21,4 +21,4 @@ First and for all, as already mentioned, this process of specification based on 
 
 Survival of the fittest leads according to the Evolution Theory on and on to the improvement of a trait in which a certain species excels or at least that is important to survive. So this trait becomes better and better again and again. If I make again a comparison with cars you could compare this with the evolution of a certain brand of say four-door saloons during which every new model is faster or more comfortable or uses less fuel. But it will always stay a car competing over and over again with the same brands which are manufactured on the basis of these same qualities. Without a dramatic change this four-door saloon will never become an EV, a SUV, a truck and so on.
 
-![evolutie auto.jpg](/evolutie%20auto.jpg){style="height: 200px; margin: 0 auto;"}
+![evolutie auto.jpg](/evolutie%20auto.jpg){style="height: 300px; margin: 0 auto;"}
