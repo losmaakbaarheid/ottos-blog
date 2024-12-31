@@ -11,4 +11,6 @@ There is no definite accepted insight in how new species according to the Evolut
 1. Isolation of two populations of a certain species
 2. This means that different traits will be selected by natural selection (because both populations live under different circumstances).
 3. Over time the two populations become so different that they cannot longer interbreed
-4. A new species is formed![gescheurd eiland.jpg](/gescheurd%20eiland.jpg){style="height: 300px; margin: 0 auto;"}
+4. A new species is formed
+
+![gescheurd eiland.jpg](/gescheurd%20eiland.jpg){style="height: 300px; margin: 0 auto;"}
