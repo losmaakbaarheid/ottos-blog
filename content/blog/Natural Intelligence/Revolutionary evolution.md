@@ -14,3 +14,11 @@ There is no definite accepted insight in how new species according to the Evolut
 4. A new species is formed
 
 ![gescheurd eiland.jpg](/gescheurd%20eiland.jpg){style="height: 300px; margin: 0 auto;"}
+
+In this description ‘isolation’ is a clear condition. Not all scientists concerning the Evolution Theory agree upon this, by the way. But without step 1., finding a scenario that results in a new species, becomes rather hard. At least on the basis of the Evolution Theory.
+
+First and for all, as already mentioned, this process of specification based on the two principles of the Evolution Theory, has never been witnessed, has never been recorded and has never been proven by fossils or in any other way. Only situations in our time, resemblances between the DNA of different species, the processes happening within an embryo and so on, have been interpreted as a kind of evidence of such a process. But that is nothing less and also nothing more than a theory (like mine). And later on I will give another possible explanation for these resemblances and these processes.
+
+Survival of the fittest leads according to the Evolution Theory on and on to the improvement of a trait in which a certain species excels or at least that is important to survive. So this trait becomes better and better again and again. If I make again a comparison with cars you could compare this with the evolution of a certain brand of say four-door saloons during which every new model is faster or more comfortable or uses less fuel. But it will always stay a car competing over and over again with the same brands which are manufactured on the basis of these same qualities. Without a dramatic change this four-door saloon will never become an EV, a SUV, a truck and so on.
+
+![evolutie auto.jpg](/evolutie%20auto.jpg){style="height: 300px; margin: 0 auto;"}
