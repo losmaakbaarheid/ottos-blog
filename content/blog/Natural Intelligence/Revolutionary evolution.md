@@ -89,11 +89,10 @@ So what could Natural Intelligence in essence be? A susceptability for mutations
 
 By the way: beside the well-known ‘survival of the fittest’ and the hereby introduced ‘survival of another fit’ and ‘survival of an internal fit’ there seems to be a fourth evolutionary road, and that is: ‘survival of a less fit’. You could call that a negative evolution which may occur if a demanding outside world becomes less demanding. Living creatures which did not undergo the positive mutation or creatures that in this new less demanding circumstances (say an abundancy of food) have a negative mutation, will also be able to survive. Is there any prove of this? Well maybe and it concerns us. As already mentioned recent research indicate that the last 3000 years the brains of humans shrunk a bit, even since medieval times. So it seems that our intelligence doesn’t really benefit from prosperity. It is also possible that our intelligence has reached a maximum level according to the codes in the concerning regions of our DNA. Because why should the neck of a giraffe have its physical and or genetical limitations and humans brains not?
 
- 
-
 If we look at mankind the theory, as proposed here, is that millions of years ago the split between mankind and apes happened due to a change in the DNA region, where the NI of our ancestors was coded, switching from a focus on tree climbing to (human) intelligence. Probably this picture is a bit simple. It does raise questions:
 
 - What triggered this ‘sudden’ split?
 - Why and how did human intelligence appear as the new focus?
 - Is it not too simple to think that human concepts as ‘intelligence’ and ‘tree climbing’ are straight forward programmed in the relevant DNA-region? 
-- ![aapmens.jpg](/aapmens.jpg)
+
+![aapmens.jpg](/aapmens.jpg){style="height: 300px; margin: 0 auto;"}
