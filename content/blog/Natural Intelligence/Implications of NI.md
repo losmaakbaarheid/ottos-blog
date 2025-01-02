@@ -34,4 +34,4 @@ To give another example.
 
 **Scenario 3:** Due to a revolutionary evolution from time to time some fishes acquired (by switching on a certain DNA-region) the capability to survive out of the water for a short period of time. For one or a few species of fish this new trait could be fitted in. This was an (inheritable) focused trait but none of the fishes with this mutation was aware of it. So the group of fishes with this trait is growing steadily. At one moment one of them by coincidence (coincidence x < coincidence) discovered this new trait and made use of it to catch prey that was out of reach for his a her colleagues. And this new fit started from there on its evolution.
 
-![curious fish.png](/curious%20fish.png)
+![curious fish.png](/curious%20fish.png){style="height: 300px; margin: 0 auto;"}
