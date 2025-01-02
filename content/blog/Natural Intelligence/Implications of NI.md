@@ -59,3 +59,7 @@ The trait, in which a ‘species to be’ will directionally evolve and that ide
 I call that the ‘Excitatus Theory’ (opposite or next to the Evolution Theory).
 
 ![excitatus theory1.png](/excitatus%20theory1.png)
+
+Are there more arguments to support this theory that the basics of all fundamental traits of ‘species to come’ could already have been in DNA from the very start? Problem one is of course that we have no insight in what the DNA of the first living cells looked like. The oldest DNA, that could be investigated, was only 12 million years old. There are all kinds of publications in which is written that the first DNA was simple and only coded the basic traits to survive, but in fact nobody knows and this is also not more than a theory. One could say, look at the DNA of today’s one cell species, but there are clear indications that they are not representatives of the first one cell creatures on earth.
+
+![basic traits right from start zwart1.png](/basic%20traits%20right%20from%20start%20zwart1.png)
