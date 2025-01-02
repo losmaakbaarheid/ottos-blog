@@ -35,3 +35,11 @@ To give another example.
 **Scenario 3:** Due to a revolutionary evolution from time to time some fishes acquired (by switching on a certain DNA-region) the capability to survive out of the water for a short period of time. For one or a few species of fish this new trait could be fitted in. This was an (inheritable) focused trait but none of the fishes with this mutation was aware of it. So the group of fishes with this trait is growing steadily. At one moment one of them by coincidence (coincidence x < coincidence) discovered this new trait and made use of it to catch prey that was out of reach for his a her colleagues. And this new fit started from there on its evolution.
 
 ![curious fish1.png](/curious%20fish1.png)
+
+**What do you think is the most plausible scenario? The first one, the second or the last?**
+
+**My opinion is (from most likely to less likely): 3; 2; 1.**
+
+According to NI the main evolutionary moments concerning the phenotype starts with the ‘discovery’ of the opportunities of a new trait instead of the ‘discovery’ of a new opportunity and over and over trying to grasp it without the needed trait, so failing every time. Till suddenly a coincidental mutation offers one individual the chance to grasp this opportunity without failing. Are you going through a wall, if there is a door you can open, because you discover by coincidence that a couple of you have the right key, or are you and your friends are going to smash your head into the wall and door without the right key over and over again, with as only result a blooding head? Till someone of you maybe will find at one moment by coincidence the right key?
+
+![smashing against door.png](/smashing%20against%20door.png)
