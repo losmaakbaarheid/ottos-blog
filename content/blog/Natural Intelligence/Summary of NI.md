@@ -15,3 +15,11 @@ So there are these three processes that together form the evolution of life:
 Directional evolution implies a clear direction in the evolution of one or more of the traits, in which the concerning species excels or eventually may excel, due to a more than random chance of (positive) mutations in the DNA-region(s) which determine(s) this trait or these traits. Therefor directional evolution is (in the long term) the dominant factor in the evolution of a species. It may also include evolutionary restrictions.
 
 ![description of ni1.png](/description%20of%20ni1.png)
+
+Revolutionary evolution is a fundamental change of the inheritable susceptibility concerning the DNA-region(s) that determine the trait or traits that (primarily) define(s) the species, which can result (if a fit is reached) into a clear change of the directiontional evolution of a species and so may lead to the origin of a new (family of) species.
+
+![revolutionay evolution zwart1.png](/revolutionay%20evolution%20zwart1.png)![grafiek act en pass susc1.png](/grafiek%20act%20en%20pass%20susc1.png)
+
+Note:  
+
+In this context a new/other family is defined as a group of animals or plants that have clearly their own directional evolution. Apes and humans may be officially classified as the same family but not in the context of directional evolution. Mules and horses for instance are classified as different species within the same family.
