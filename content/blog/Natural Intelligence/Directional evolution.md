@@ -187,7 +187,11 @@ The following influences could limit or even block the occurrence and/or evoluti
 
 NI could have three effects: giving direction to the evolution of a species, excluding evolutionary directions and limiting the process of evolution in respect to certain traits. For instance that could limit the human intelligence and explain why there have been no further growth of human intelligence over the last thousands of year. If indeed this is incorporated in DNA that would also explain why the process of evolution will likely not spin out of control. How could the evolution of a trait be blocked by DNA? By ending its susceptibility and giving the concerning regions an enhanced defence against mutations. I would like to call that negative susceptibility. Or even by changing the code, production of proteins and so on.
 
-![ni 3 aspects.png](/ni%203%20aspects.png){style="height: 115px; margin: 0 auto;"}![negative susceptibility.png](/negative%20susceptibility.png){style="height: 90px; margin: 0 auto;"}![grafiek negative susceptibility.png](/grafiek%20negative%20susceptibility.png){style="height: 300px; margin: 0 auto;"}
+![ni 3 aspects.png](/ni%203%20aspects.png)!
+
+[negative susceptibility.png](/negative%20susceptibility.png)
+
+![grafiek negative susceptibility.png](/grafiek%20negative%20susceptibility.png){style="height: 300px; margin: 0 auto;"}
 
 One can wonder if during the evolution of a species the susceptibility in connection with the focused traits, that define this new species, may change. A higher susceptibility in a small population would make the chances for the new species to become successful bigger because its (new) focused traits would develop faster and so also the distance to its ancestors. Besides that, we are talking about a knife that cuts both ways. If the number of focused mutations is more than random, than one can expect that the number of other mutations, that could be life threatening, is lower (assumed that the total number of mutations is constant). If so, this will be significant because in small populations there is a bigger risk of the fixation of deleterious alleles, which decreases genetic diversity and adaptive potential. There is even a third positive effect that a higher (positive) susceptibility could have in the first phase of the evolution of a new species: there will be less concurrence of other possible beneficial mutations which in its turn strengthens the focus on this one (new) focused trait, and so accelerates the speed with which the distance to the ancestors grows.
 
