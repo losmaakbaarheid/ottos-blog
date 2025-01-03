@@ -6,7 +6,7 @@ Darwinism is based on coincidences, on random chances. There is a small chance t
 
 This looks to a certain degree logic and quiet easy to understand. But not all the theories based on this principal, like men becoming more intelligent over and over again during their evolution, are for me easy to follow. It raises questions. I will explain why. Sometimes I get the feeling that the theory, that evolution is based on coincidences, is not only that popular because it describes the evolution of life and mankind in a clear way but because it makes it possible to get rid of a ‘creator’ in any form. In this respect it is an alternative to religion. Sometimes that seems to be the main, or at least a very important, reason why the Evolution Theory has become so huge and undisputable. Including the risk of becoming a believe and religion on its own: **coincidence is the new religion**.
 
-![coincidence is the new religion.png](/coincidence%20is%20the%20new%20religion.png){style="height: 50px; margin: 0 auto;"}
+![coincidence is the new religion.png](/coincidence%20is%20the%20new%20religion.png)
 
 What is my problem with the Evolution Theory, just based on coincidences? So where does it squeeze?
 
@@ -46,8 +46,8 @@ And let’s face it. How plausible is it, that a ‘system’ without any intell
 
 **Coincidence is the word mostly used to explain an event, relation or result that we do not understand. A word we should use with much more care than we do nowedays.**
 
-![coincidence als we iets niet weten.png](/coincidence%20als%20we%20iets%20niet%20weten.png){style="height: 50px; margin: 0 auto;"}
+![coincidence als we iets niet weten.png](/coincidence%20als%20we%20iets%20niet%20weten.png)
 
 One last word before explaining my theory about the evolution of life. Please read it with an open mind! What does that mean with regard to this specific subject? That ‘coincidence’ (yes there is this word again) doesn’t exclude by definition a creator (why shouldn’t coincidences be a tool of this creator to make evolution less predictable?) and that a ‘non-coincidence’ (everything that happens more often or less then random) include by definition a creator (for instance if you bounce a ball with the same force the distance that it bounces back is not random. Nobody sees that as an act of god).
 
-![coincidence creator.png](/coincidence%20creator.png){style="height: 50px; margin: 0 auto;"}
+![coincidence creator.png](/coincidence%20creator.png)
