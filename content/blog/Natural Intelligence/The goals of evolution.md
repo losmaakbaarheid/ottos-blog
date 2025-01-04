@@ -91,3 +91,15 @@ If talking about the complexity of a cell, the complexity of DNA and the genetic
 Making this document I came across an article with the title ‘\_A numerical evaluation of the Finite Monkey Theorem’\_ in 2024 written by Stephen Woodcock and Jay Falletta.
 
 ![finite monkey theory art.png](/finite%20monkey%20theory%20art.png){style="height: 50px; margin: 0 auto;"}
+
+The Infinite Monkeys Theorem has long-established the eventual certainty of the complete works of William Shakespeare being reproduced by a monkey randomly pressing keys on a typewriter. This only considers the infinite limit, with either an infinite number of monkeys and/or an infinite time period of monkey labour. The mentioned researchers considered not the Infinite but the Finite Monkeys Theorem and looked at the probability of a given string being typed by a finite number of monkeys within a finite time allocation consistent with estimates for the lifespan of our universe. They also calculated the expected number of keystrokes until a target string would first be produced. So they examined the situation when only a finite number of monkeys and only a finite time period are available. And then calculated the probabilities of particular phrases being typed by a given number of monkeys in a given time period.
+
+![typing monkey.jpg](/typing%20monkey.jpg)
+
+The conclusion of the performed mathematical experiment is that the results clearly demonstrated that based on the given plausible estimates of the lifespan of the universe and the amount of possible monkey typists available, this still leaves huge orders of magnitude differences between the resources available and those required for non-trivial text generation.
+
+By the way: there are more of these kinds of theories, that claim that if you do something without any intentions millions of time or billions of times, that by chance one time the results will not be something chaotic but something with a structure or even a meaning. But what is often forgotten in those theories, is that you first must instruct something or somebody to perform a certain action that many times, over and over again. Like the monkeys mentioned above. Giving this instruction and performing this action is giving a direction and not something happening without any intensions. And that is how the Evolution Theory looks at life.
+
+One other note: if an infinitive number of monkeys type infinite times on a key board, you will not only get the complete works of Shakespeare but of all writers ever existed. So the theory, that if you do something trillions of times by coincidence, order will appear, doesn’t support the Evolution Theory but contradicts it. Because that would implicate that life didn’t start with one type of DNA at one moment in history (generally accepted), but with multiple types of DNA or even other life giving molecules over and over again.
+
+![theory infinite numbers.png](/theory%20infinite%20numbers.png)
