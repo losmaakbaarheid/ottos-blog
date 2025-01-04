@@ -73,3 +73,5 @@ So the filling of the biosphere with the optimum or possibly even maximum possib
 ![goal of life.png](/goal%20of%20life.png)
 
 Starting from this point of view a lot of observations make sense. Why are there some many people on earth and is this amount still growing? Why are there so many ants and termites?
+
+![termieten1.jpeg](/termieten1.jpeg){style="height: 300px; margin: 0 auto;"}
