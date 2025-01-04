@@ -59,3 +59,17 @@ A part of the second law of thermodynamics is also that conditions in systems in
 So the fact is, that living creatures lower the state of entropy, organizing materials under the influence of energy put into the system. Besides that, they (mammals, birds) avoid an equilibrium between their body conditions and the outside world. To realize this the mentioned law demands intelligence or instructions. And both are indeed incorporated in DNA. This implies: DNA is the ‘intelligent’ organizing feature and the sun and maybe other sources brings in the needed energy. So the inevitable outcome of the evolution of life is to lower entropy. It goes against the second law of thermodynamics but it does not contradict it.
 
 ![evolution of live goes.png](/evolution%20of%20live%20goes.png)
+
+By the way: dinosaurs were cold-blooded, like reptiles today, their body temperature followed the temperature of the outside world. So their existence looked more like the closed system, the second law of thermodynamics is talking about, than the existence of mammals or birds. That they got extinct and mammals survived, and even took over, could be a confirmation that life goes against this law that dictates an constant or growing entropy.
+
+Note:
+
+That life lowers the level of entropy is a point of discussion. Some scientists say that life increases the entropy by burning oil and so on (what only humans do). But I think that is ‘making chaos’ on a much lower level. See also the following text.
+
+Death undoes this all and brings back the chaos according to the second law of thermodynamics. So what is the use of it all? Well we see that the evolution slowly but surely has increased the complexity of living creatures and their variety, so also slowly but surely the level of organisation, structuring and information increases and so the level of entropy decreases. The means that evolution is not a random process that, ruled by coincidences, leads to ever more complex living creatures. I thinks this well accepted dogma is not correct. Not only evolution has an inevitable outcome but even death. The whole process of an ever increasing level of organizing and structuring materials is only possible by the sake of death: no death no evolution.
+
+So the filling of the biosphere with the optimum or possibly even maximum possible variety of species in order to give the universe the possibility and a reason to exist, could be one goal or at least the inevitable outcome of evolution. The other outcome could be to organize and structure materials.
+
+![goal of life.png](/goal%20of%20life.png)
+
+Starting from this point of view a lot of observations make sense. Why are there some many people on earth and is this amount still growing? Why are there so many ants and termites?
