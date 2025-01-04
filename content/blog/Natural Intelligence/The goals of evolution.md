@@ -90,4 +90,4 @@ If talking about the complexity of a cell, the complexity of DNA and the genetic
 
 Making this document I came across an article with the title ‘\_A numerical evaluation of the Finite Monkey Theorem’\_ in 2024 written by Stephen Woodcock and Jay Falletta.
 
-
+![finite monkey theory art.png](/finite%20monkey%20theory%20art.png)
