@@ -75,3 +75,11 @@ So the filling of the biosphere with the optimum or possibly even maximum possib
 Starting from this point of view a lot of observations make sense. Why are there some many people on earth and is this amount still growing? Why are there so many ants and termites?
 
 ![termieten1.jpeg](/termieten1.jpeg){style="height: 300px; margin: 0 auto;"}
+
+They not only organize and structure materials in their bodies but also in their environment! So they multiply this effect during their life and so contribute extra to this direction of the evolution of life. That makes them so successful and maybe that is even the reason nature contributes to their success. Look at your house and room, (almost) everything ordered! Yes there is something in our system that pushes us to organize! And we do benefit from that. If mankind will be able to colonize other planets, our efforts of organizing and structuring will be multiplied. Are we just randomly doing something or indeed is DNA pushing us, while we don’t suspect it, into that direction? Is that why we like to play with Lego or like to make Jigsaw puzzles? We are getting satisfaction by organizing random distributed elements making a complete picture or structure out of many loose pieces. And the more money and assets you have, the better you can play your role.
+
+![Life DNA organize.png](/Life%20DNA%20organize.png)
+
+You could wonder what this has to do with NI, with directional evolution and revolutionary evolution. If you compare the (theoretical) build-up of species according to the Evolution Theory and that according to NI in combination with ET the last one is, as already illustrated, far more effective. De process of creating a new family of species followed by the creation of new species within this new family is much faster and more effective and the capability to fill in all the niches in the biosphere is according to the Evolution Theory alone only partly possible and still with a very low speed and effectiveness. NI + ET in opposite will find every niche there is.
+
+![ny1.jpeg](/ny1.jpeg){style="height: 300px; margin: 0 auto;"}
