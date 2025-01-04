@@ -103,3 +103,15 @@ By the way: there are more of these kinds of theories, that claim that if you do
 One other note: if an infinitive number of monkeys type infinite times on a key board, you will not only get the complete works of Shakespeare but of all writers ever existed. So the theory, that if you do something trillions of times by coincidence, order will appear, doesn’t support the Evolution Theory but contradicts it. Because that would implicate that life didn’t start with one type of DNA at one moment in history (generally accepted), but with multiple types of DNA or even other life giving molecules over and over again.
 
 ![theory infinite numbers.png](/theory%20infinite%20numbers.png)
+
+If I may take the liberty to translate the Finite Monkeys Theorem to the evolution of life, this would implicate that the universe isn’t there long enough to explain the mentioned complexities on the basis of random actions or events. Of course there are more DNA-sequences than monkeys, but species are more complex than the complete works of Shakespeare and the result of the mathematical experiment was that it still left huge orders of magnitude differences to an ordered result.
+
+So it is one or the other: or coincidences will lead to more origins of life or to no origin of life. That all these coincidences by coincidence lead to just one origin of life, is really too unlikely (unless you believe that this is no coincidence …….).
+
+So in my opinion the mentioned processes of evolution and the mentioned outcome of it, are programmed in DNA and made possible by our habitat offering energy, materials, oxygen etc.
+
+That is ‘all’. No reason the bring in a creator. We don’t do that if we are talking about DNA programming traits and we don’t do that if we are talking about the laws of physics. So also no reason to do that, if we are talking about the ‘laws of evolution’.
+
+To conclude this chapter about the ‘goals’ of the evolution of life, let me go back to the 7(?) laws of nature and physics. What do these laws do? What is the result the law of gravity or of electromagnetism? Organizing material! The universe and our earth are the result of these laws: the universe is not a chaos, but organised in the form of milky ways, stars and planets, where even on some of them life can evolve. Without the laws of physics universe would be a chaos. So the theory that life is there to organize, is nothing but a expansion of the existing laws of physics. Nothing exotic or religious about it. Biology and physics are always considered as two separate sciences, but in the end they could be the two sides of the same coin.
+
+![laws of physics organize zwart1.png](/laws%20of%20physics%20organize%20zwart1.png)![2 sides of coin.png](/2%20sides%20of%20coin.png)
