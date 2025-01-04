@@ -88,6 +88,6 @@ You could wonder what this has to do with NI, with directional evolution and rev
 
 If talking about the complexity of a cell, the complexity of DNA and the genetical chemical processes taking place, the complexity of traits and the complexity of living creatures, the all accepted explanation is ‘large numbers’. If an event happens infinite times, like mutations of the DNA, coincidences will bring order, indeed just by coincidence. This seems so far to be the only way to explain life and the evolution of life without some kind of intelligence. I already talked about my doubts if it really could work that way. See my text about screwing billions of times materials together in the expectation that just by coincidence one time suddenly a Porsche will appear out of this randomly screwed and welded materials.
 
-Making this document I came across an article with the title ‘&#x5F;A numerical evaluation of the Finite Monkey Theorem’_ in 2024 written by Stephen Woodcock and Jay Falletta.
+Making this document I came across an article with the title ‘\_A numerical evaluation of the Finite Monkey Theorem’\_ in 2024 written by Stephen Woodcock and Jay Falletta.
 
 ![finite monkey theory art.png](/finite%20monkey%20theory%20art.png)
