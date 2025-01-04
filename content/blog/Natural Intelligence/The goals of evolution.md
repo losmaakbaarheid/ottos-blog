@@ -33,3 +33,13 @@ Back to NI: I EXT have given a possibility how Natural Intelligence could work. 
 Humankind has even reached such a complexity that it is capable to live in other niches then her own and survive there (thanks to cloth, fire, heating, cooling, refrigerators etc.). The filling of all biospheres could also be the result of ‘the evolution of the fittest’ but in a much slower tempo, with less complementary species and with much more competition.
 
 ![dressed against cold.png](/dressed%20against%20cold.png)
+
+A short time ago I watched a documentary about deep sea fish and the really amazing and also beautiful creatures living in these deepwater areas. These animals look very different from any other life form on earth. That made me wonder how it is possible that there are so many different species adapted to so many different circumstances, often with each their own feeding habits, types of food, strongpoints and so on. On the basis of only the Evolution Theory you would expect much more resemblance between species, the sharing of proven favourable habits and traits, same objectives. If intelligence works for mankind of course it should work for almost all animals to make the better fit. But obviously and maybe even surprisingly that is not the reality and not the way it works. Or should I say: NI+ExT works?
+
+![deep sea fish.png](/deep%20sea%20fish.png)
+
+If I make a comparison with cars again, the day to day competition between the different brands is to my opinion much stronger than between the different species. To say it in another way: nature is remarkable complementary. For every situation and every environment there is one well suited and adapted species and species are not often ‘fishing in the same pond’ in the same way with the same gear. There is for instance one species with an extraordinary long neck and there is one species with a long trunk. Opposite to products developed by men, which normally have huge overlaps. You could say that obviously evolution and time did their work, but will time and human intelligence (so not ‘coincidence’!) lead to less competition in time? No, to more competition! In economics we call that the ‘boom and bust cycle’. For some reason that cycle, that lead to more of the same instead to less of the same, appears not to exist in evolution or at least is not as a deciding rule.
+
+Often the opinion is that the differences between the DNA’s of different species is remarkable small and this is seen as an evidence that evolution of life is a fact, but maybe it is the other way around: the differences are, at least where it matters (also proteins), remarkable big.
+
+![differences remarkable big 1 zwart.png](/differences%20remarkable%20big%201%20zwart.png)
