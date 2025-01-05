@@ -31,3 +31,5 @@ Above I made an extrapolation comparing the development of an embryo with the de
 ![dna split in 3 species.png](/dna%20split%20in%203%20species.png)
 
 Further on, I will discuss the origin of life and that it is hard to image something (life) originating from ‘nothing’ (combination of dead materials). But also during specification according to the Evolution Theory a more or less similar process is taking place over and over again. For instance, did the first species with the capability to sense noise develop the necessary DNA-code to do so out of nothing? How? How can a mutation or couple of mutations by coincidence lead to such a complete new feature and trait? Like screwing a car together and, because of a mistake (mutation), suddenly a refrigerator appears.
+
+![car refrigirator1.png](/car%20refrigirator1.png)
