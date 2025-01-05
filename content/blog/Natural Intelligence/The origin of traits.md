@@ -33,3 +33,9 @@ Above I made an extrapolation comparing the development of an embryo with the de
 Further on, I will discuss the origin of life and that it is hard to image something (life) originating from ‘nothing’ (combination of dead materials). But also during specification according to the Evolution Theory a more or less similar process is taking place over and over again. For instance, did the first species with the capability to sense noise develop the necessary DNA-code to do so out of nothing? How? How can a mutation or couple of mutations by coincidence lead to such a complete new feature and trait? Like screwing a car together and, because of a mistake (mutation), suddenly a refrigerator appears.
 
 ![car refrigirator1.png](/car%20refrigirator1.png)
+
+So I think that of all primary traits developed by all species during the evolution of life the basics, offering to mutations the chance to develop these traits, must have been there from the start of life. This presence right from the start, and the switching on and off of the concerning parts of DNA, is the essence of the Excitatus Theory. To explain the difference between a primary and a secondary trait you should think of hair versus the quills of a porcupine or teeth versus tusks of an elephant.
+
+The basic traits evolved during the first billions of years because every ‘simple’ and every (more) complex living creature needed them and because in this period these basic traits were good enough to make a decisive difference. And also because more complex traits will take more time to find a fit (‘survival of an internal fit’): it takes more time to find a viable and favourable combination with other traits.
+
+![excitatus theory foto zwart.png](/excitatus%20theory%20foto%20zwart.png)
