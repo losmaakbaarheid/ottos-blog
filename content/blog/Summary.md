@@ -27,3 +27,5 @@
 Life is not a goal on its own. And it is also not useless. But life of an individual living creature has no meaning. It is all about the whole system of life by giving meaning to the universe and by producing in time more, more complex and complementary species filling every niche, in order to organize and structure ever more materials, even in space.
 
 ![darwin thinking.jpg](/darwin%20thinking.jpg)
+
+The last claim (23) is quiet something, so let’s test that. Herman B. Bouma wrote in 2023 an article with the title ‘&#x5F;Darwin’s Top 10 Arguments Against His Own Theory’&#x5F;. He writes that Charles Darwin took seriously objections to his theory that had been raised by many of the most eminent naturalists of his day. In &#x5F;The Origin of Species_ he considered in detail 37 of them. Darwin acknowledged that there were “a crowd of difficulties” with his theory. Herman B. Bouma mentions 10. I will present them here and try to give an explanation from the perspective of NI+ExT. A remark in advance: I don’t know how correct the citations, I quote, are, and if there have been later justifications, explanations and so on concerning these citations.
