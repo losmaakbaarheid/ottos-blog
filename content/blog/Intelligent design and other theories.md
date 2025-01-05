@@ -26,3 +26,17 @@ _3. Fine-Tuning Argument_
 - **Example**: The cosmological constant, which governs the rate of expansion of the universe, is often cited because even minute changes would either prevent galaxies from forming or cause the universe to collapse.
 - **Criticism**: Many physicists counter with the anthropic principle, which suggests that we observe these constants precisely because we exist in a universe that allows life. Multiverse theories also propose that many universes might exist with various constants, making our life-supporting universe just one among many.
 - **NI+ExT**: doesn’t discuss this point because this is first and for all about the law of physics.
+
+_4. Information Theory and DNA_
+
+- **Core Idea**: ID proponents argue that DNA’s coded information requires an intelligent source, as the information it contains is comparable to a complex language or software.
+- **Example**: The argument draws a parallel between DNA and computer code, asserting that random chance cannot produce coherent, information-rich systems like DNA without intentional design.
+- **Criticism**: Many scientists assert that DNA's structure can be explained through the process of natural selection and genetic mutation, with beneficial mutations gradually building up to create new functions.
+- **NI+ExT**: DNA codes life, DNA codes all essential functions to live and to survive, right from the beginning. Otherwise the first living cell would have died instantly. That can’t be explained by beneficial mutations gradually building up new functions. The time to do so was just not there at that moment. So the ‘criticism’ can never hold. Besides that I presented a quiet huge number of examples, motivations and articles based on research that contradicts that only beneficial mutations could give these result. The right answer? I don’t know. Obviously DNA was coded right from the start to bring life. How? Maybe there is something like a ‘law of life’ like there is a ‘law of gravity’ and is life one of the basis forces. Possibly our knowledge will grow so much in the future that some explanation will become obvious without the need of ‘coincidences’ and without the need of a ‘creator’.
+
+_5. The Limits of Natural Selection_
+
+- **Core Idea**: ID advocates argue that there are limits to what natural selection and mutation can accomplish. They suggest that these mechanisms are insufficient to explain the emergence of entirely new, highly complex biological structures.
+- **Example**: Cambrian explosion — a relatively short period in geological history where a significant number of animal phyla appeared — is sometimes cited as evidence that complexity appeared too quickly for natural selection to account for it.
+- **Criticism**: Many scientists argue that while the Cambrian explosion was a period of rapid diversification, there are evolutionary explanations, including changes in environmental conditions, genetic innovations, and increased oxygen levels.
+- **NI**: NI can explain this on the basis of directional evolution, revolutionary evolution and the incorporation of the basics of the main traits, together with the Evolution Theory. Indeed the Evolution Theory on its own has no answers to the sudden appearance of entirely new types of species. Some quoted scientists also acknowledge this.
