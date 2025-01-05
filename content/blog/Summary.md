@@ -83,3 +83,19 @@ _With respect to the absence of transitional forms in the fossil record, Darwin 
 At least part of this absence can be declared by revolutionary evolution, by focused traits, by dormant traits that seize their chance if a mutation of another trait makes it possible for the dormant trait to become active and also on the basis of traits, which basics are already there right from the beginning, waiting for an internal and external fit. All these aspects of NI+ExT will speed up the transition process and so will reduce the number of intermediate varieties and so fossils of these varieties, enormously.
 
 ![fossils.jpg](/fossils.jpg)
+
+**9. Absence of Transitional Forms Even Within Particular Geological Formations**
+
+_With respect to the absence of transitional forms even within particular geological formations, Darwin states, “It cannot be doubted that the geological record, viewed as a whole, is extremely imperfect; but if we confine our attention to any one formation, it becomes much more difficult to understand why we do not therein find closely graduated varieties between the allied species which lived at its commencement and at its close.” He confesses, “But I do not pretend that I should ever have suspected how poor was the record in the best preserved geological sections, had not the absence of innumerable transitional links between the species which lived at the commencement and close of each formation, pressed so hardly on my theory.”_
+
+Since the days of Darwin a lot more fossils have been found. And there are also explanations given why in certain regions, concerning certain ages and in respect to certain species no or just a few fossils are there. But the essence of this absence of transitional forms is still a fact. One point of critic before (8) I have written how NI+ExT can explain this absence.
+
+**10. Sudden Appearance of New Forms of Life**
+
+_Darwin states, “The abrupt manner in which whole groups of species suddenly appear in certain formations, has been urged by several paleontologists — for instance, by Agassiz, Pictet, and Sedgwick — as a fatal objection to the belief in the transmutation of species.”_
+
+_He goes on to state, “There is another and allied difficulty, which is much more serious. I allude to the manner in which species belonging to several of the main divisions of the animal kingdom suddenly appear in the lowest known fossiliferous rocks,” i.e., the Cambrian strata. “To the question why we do not find rich fossiliferous deposits … prior to the Cambrian system, I can give no satisfactory answer.” Darwin concludes, “The case at present must remain inexplicable; and may be truly urged as a valid argument against the views here entertained.”_
+
+If I may say so: Revolutionary evolution is, or at least could be, the solution. Together with the waiting of fundamental ‘new’ traits, present in DNA from the very start, for the moment of ‘harmony’.
+
+As a resumé: of the 10 points of critics I can follow 7. The other 3 are, to my opinion, explainable on the basis of the Evolution Theory. Of this remaining 7 points of critic NI+ExT can explain them all way better than ET. The fact that NI makes it at least equally hard to explain the origin of life irritates me a bit. I will keep on wandering about it and hope for a sudden moment of vision.
