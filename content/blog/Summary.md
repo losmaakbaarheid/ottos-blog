@@ -50,13 +50,13 @@ _Darwin admits that it is common throughout nature for the same end to be gained
 
 Again DNA could offer these different possibilities, and internal circumstances (focused trait, internal fit), external circumstances and coincidences can determine which of them will appear in the phenotype.
 
-4\. Parts with Little Importance
+**4. Parts with Little Importance**
 
 _Darwin states, “I have sometimes felt great difficulty in understanding the origin or formation of parts of little importance; almost as great, though of a very different kind, as in the case of the most perfect and complex organs.” He mentions the tail of the giraffe as an example of a part with little apparent importance. He states that it looks like “an artificially constructed fly-flapper” and “\[it] seems at first incredible that this could have been adapted for its present purpose by successive slight modifications, each better and better fitted, for so trifling an object as to drive away flies.”_
 
 To be honest, I can’t really follow this argument. Why is driving away flies of little importance? Besides that, traits that are already present in the DNA may appear because of an internal push and not because of an external determining advantage.
 
-5\. Complex Instincts
+**5. Complex Instincts**
 
 _Darwin acknowledges, “Many instincts are so wonderful that their development will probably appear to the reader a difficulty sufficient to overthrow my whole theory.”_
 
@@ -64,20 +64,22 @@ _Darwin states, “He must be a dull man who can examine the exquisite structure
 
 NI could make this more plausible on the basis of a focused trait that makes the process of developing the right trait to do so much easier and faster. Also some basic features in DNA right from the start could make this process and result more likely.
 
-6\. Neuter Ants and Their Different Castes
+**6. Neuter Ants and Their Different Castes**
 
 _With respect to neuter ants, Darwin states it is “one special difficulty, which at first appeared to me insuperable, and actually fatal to the whole theory … for these neuters often differ widely in instinct and in structure from both the males and fertile females, … yet, from being sterile, they cannot propagate their kind.” Darwin goes on to state, “But we have not as yet touched on the acme of the difficulty; namely, the fact that the neuters of several ants differ, not only from the fertile females and males, but from each other, sometimes to an almost incredible degree, and are thus divided into two or even three castes.” He acknowledges, “It will indeed be thought that I have an overweening confidence in the principle of natural selection, when I do not admit that such wonderful and well-established facts at once annihilate the theory.”_
 
 So not really a fatal critic on the Evolution Theory.
 
-7\. The Eyes of the Flat-Fish
+**7. The Eyes of the Flat-Fish**
 
 _During its early youth the body of the flat-fish is symmetrical with one eye on each side. However, as the body matures, one eye “begins to glide slowly round the head” to the other side. (pp. 209-210) This is beneficial because the adult flat-fish spends most of its time lying on its side on the bottom of the ocean. Darwin agrees that his theory of natural selection cannot account for this feature. He states that it “may be attributed to the habit, no doubt beneficial to the individual and to the species, of endeavouring to look upwards with both eyes, whilst resting on one side at the bottom.” Thus, it “may be attributed almost wholly to continued use, together with inheritance.”_
 
 I think it is possible to explain the on the basis of the Evolution Theory and on the basis of NI.
 
-8\. Absence of Transitional Forms in the Fossil Record
+**8. Absence of Transitional Forms in the Fossil Record**
 
 _With respect to the absence of transitional forms in the fossil record, Darwin states that under his theory, “…as this process of extermination has acted on an enormous scale, so must the number of intermediate varieties, which have formerly existed, be truly enormous. Why then is not every geological formation and every stratum full of such intermediate links? Geology assuredly does not reveal any such finely-graduated organic chain; and this, perhaps, is the most obvious and serious objection which can be urged against the theory.” Darwin admits that “though we do find many links — we do not find interminable varieties, connecting together all extinct and existing forms by the finest graduated steps.” He states, “That the geological record is imperfect all will admit; but that it is imperfect to the degree required by our theory, few will be inclined to admit.” He also acknowledges, “He who rejects this view of the imperfection of the geological record, will rightly reject the whole theory.”_
 
 At least part of this absence can be declared by revolutionary evolution, by focused traits, by dormant traits that seize their chance if a mutation of another trait makes it possible for the dormant trait to become active and also on the basis of traits, which basics are already there right from the beginning, waiting for an internal and external fit. All these aspects of NI+ExT will speed up the transition process and so will reduce the number of intermediate varieties and so fossils of these varieties, enormously.
+
+![fossils.jpg](/fossils.jpg)
