@@ -25,3 +25,7 @@ If we include this in the Theory of ExT, what does this mean? That the DNA-machi
 Inside DNA the production of a new trait is like operators of a machine discovering an until recently unknown capacity of this machine - and how to handle that - which is capable to manufacture a new (possibly) marketable product. The input of materials does not change significantly; sometimes the amount per material may have to change a bit. The essence of this is that basically it indeed is and always has been (more or less) the same machine (right from the start).
 
 ![dna fabriek zwart.png](/dna%20fabriek%20zwart.png)
+
+Above I made an extrapolation comparing the development of an embryo with the development of a new species. At recent research confirms that both – splitting of cells and switching on genes and other molecular processes – have in common that it all starts with one DNA-sequence. During the development of an embryo the DNA does not change at all. And during the evolution of life these changes are often limited to even extremely limited. In my opinion especially this last finding is (almost) an evidence that my “Excitatus Theory’ (I will present in this chapter) is the right evolutionary theory or at least a theory that deserves attention and should be considered as a theory not less relevant than the Evolution Theory. I am aware that this sounds a bit presumptuous, but ok.  
+
+![dna split in 3 species.png](/dna%20split%20in%203%20species.png)
