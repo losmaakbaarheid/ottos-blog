@@ -1,1 +1,1 @@
-# Intelligent Design And Other Theories page
+# Intelligent Design And Other Theories
