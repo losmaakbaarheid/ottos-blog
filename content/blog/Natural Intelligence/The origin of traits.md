@@ -38,7 +38,7 @@ So I think that of all primary traits developed by all species during the evolut
 
 The basic traits evolved during the first billions of years because every ‘simple’ and every (more) complex living creature needed them and because in this period these basic traits were good enough to make a decisive difference. And also because more complex traits will take more time to find a fit (‘survival of an internal fit’): it takes more time to find a viable and favourable combination with other traits.
 
-![excitatus theory foto zwart.png](/excitatus%20theory%20foto%20zwart.png)
+![excitatus theory1.png](/excitatus%20theory1.png)
 
 I will give so more some support to this theory, it is good to know that the shaping of bodies of animals is controlled by a rather small percentage of genes (less than 10%), and that these regulatory genes are ancient, shared by all animals. For instance the giraffe does not have a gene for a long neck, any more than the elephant has a gene for a big body. Important in this respect is the so called ‘Toolkit genes’. This implicates a couple of genes that together define the body plan and the number, identity and pattern of body parts. They are qualified as highly conserved. Differences in deployment of toolkit genes determine their outcome. The protein products of the regulatory toolkit are reused, being applied unchanged in many independent developmental processes, giving pattern to many dissimilar body structures. It concerns complex genes and complex working genes and this complexity enables these genes in the development of the embryo to be switched on and off at exactly the right times and in exactly the right places. Which has a determining effect on the result.
 
