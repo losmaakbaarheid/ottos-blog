@@ -145,3 +145,9 @@ All evolutionists agree that the first living cell already must have had a numbe
 By the way: to have an open mind one should not (in advance) include a kind of creation or creator but on the other hand you should not be afraid to go a way that makes it harder to exclude that, if this way looks to offer a (more) realistic view on evolution. An open mind means that you have to be prepared to go all plausible ways.
 
 ![enigma of life zwart1.png](/enigma%20of%20life%20zwart1.png)
+
+If this starting point is correct (the basics of primary traits were there already from the beginning), than why did not every living species ‘choose’ to go for the human direction, so for intelligence as the focused trait? The possible explanation is ‘coincidence’, if we are talking about passive susceptibility, or not the right trigger at the right moment under the right circumstances, if we go for active susceptibility. And also the interactions with other traits at any moment (internal fit) during evolution and with external circumstances (external fit) could have played a decisive role there.
+
+Below an extremely simplified picture is given of the evolution of life according to ET and one according to ExT. During the first evolutionary process a new trait appears by a random mutations (instead of or next to an existing trait). By luck this new trait offers a better fit. During the second process, beside the existing trait, there are genes ‘waiting’ to be activated. This activation could come or not, dependant on their evolution. Also the evolution of other traits are relevant in this situation. If activated and giving an internal fit this new trait could also externally offer a better or different fit. It is also possible that an existent trait goes into a dormant state or is even switched off.
+
+![extremely simplyfied ET and ExT.png](/extremely%20simplyfied%20ET%20and%20ExT.png)
