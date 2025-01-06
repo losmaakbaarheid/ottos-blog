@@ -69,3 +69,7 @@ So during evolution we see two phenomena leading to more and more complex specie
 What does this tell us? That the evolution of life was and is not only about numerous mutations resulting in a more advanced and complex genome and so species, but also - and maybe even more - about tuning and fine-tuning the processes in this genome in order to reach an internal and external fit between the traits that are the result of this genome and these processes. If you read about the complexity of these processes, on a molecular level and of a physical level (traits influencing and hindering each other), it is easy to see that this is a very time consuming process. Controlled by coincidental mutations and changes and, where applicable, sped up by the effect of (potential) focused traits.
 
 ![evolution of life is about.png](/evolution%20of%20life%20is%20about.png)
+
+So one important reason, that dinosaurs preceded the mammals, could be that it was easier and so faster to reach a fit within dinosaurs than within mammals. It I easier to tune a few (focused) traits than it is to tune a lot of these traits.
+
+![orchestra.png](/orchestra.png)
