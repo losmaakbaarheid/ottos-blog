@@ -151,3 +151,7 @@ If this starting point is correct (the basics of primary traits were there alrea
 Below an extremely simplified picture is given of the evolution of life according to ET and one according to ExT. During the first evolutionary process a new trait appears by a random mutations (instead of or next to an existing trait). By luck this new trait offers a better fit. During the second process, beside the existing trait, there are genes ‘waiting’ to be activated. This activation could come or not, dependant on their evolution. Also the evolution of other traits are relevant in this situation. If activated and giving an internal fit this new trait could also externally offer a better or different fit. It is also possible that an existent trait goes into a dormant state or is even switched off.
 
 ![extremely simplyfied ET and ExT.png](/extremely%20simplyfied%20ET%20and%20ExT.png)
+
+A new primary trait according to ExT is a trait, which basic characteristics were already there from the very start, and so in the DNA of the first living cell, ‘waiting’ to be activated during the process of the evolution of life and possible even to become at a certain moment a focused trait. This latest switch can only happen by an enhanced susceptibility. A trait can also being switched off along the line of evolution.
+
+![new primary trait.png](/new%20primary%20trait.png)
