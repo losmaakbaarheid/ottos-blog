@@ -135,3 +135,13 @@ New melody/symphony:      new family of species (caused by revolutionary e
 Outdated music:                   ancestors
 
 ![1000 tunes copy right1.png](/1000%20tunes%20copy%20right1.png)![MUZIEKNOTEN.jpg](/MUZIEKNOTEN.jpg)
+
+You could argue that with the theory, that the basics of all primary traits were there already from the beginning, I make it harder to explain the origin of life without some creator. But is it not harder to explain that without a creator during evolution thousands of times new decisive traits appeared more or less out of nothing? That for some reason a new protein appeared that for some reason opened the genetic way to a favourable new trait and not to something useless. The chances of something useless to appear out of a random process instead of something useful, is trillions if not infinite times bigger. So no, I don’t think I make this harder. The genes, leading to the production of specific and useful proteins, and the opportunity that mutations result in other proteins, which in their turn offer the possibility to develop new fruitful traits, must have been there right from the start. Otherwise the origin of every new trait is an as big enigma as the origin of life itself.
+
+![BULLSHIT machine.png](/BULLSHIT%20machine.png)
+
+All evolutionists agree that the first living cell already must have had a number of essential programmed traits to survive and to produce ‘offspring’. I am speaking about traits like self-replication, photosynthesis, protection from the outside environment, confinement of biochemical activity, enzyme production, cellular compartmentalization, metabolism, catalytic molecules, transport mechanism, basic homeostasis, absorption of nutrients, excretion of waste and so on. So the fact that all these features already must have been there right from the start, implicates that the step to also incorporate the basics of traits, essential to more complex species to come, is not that unlikely and farfetched.
+
+By the way: to have an open mind one should not (in advance) include a kind of creation or creator but on the other hand you should not be afraid to go a way that makes it harder to exclude that, if this way looks to offer a (more) realistic view on evolution. An open mind means that you have to be prepared to go all plausible ways.
+
+![enigma of life zwart1.png](/enigma%20of%20life%20zwart1.png)
