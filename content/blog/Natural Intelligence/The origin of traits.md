@@ -133,3 +133,5 @@ music:                                     n
 New melody/symphony:      new family of species (caused by revolutionary evolution)
 
 Outdated music:                   ancestors
+
+![1000 tunes copy right1.png](/1000%20tunes%20copy%20right1.png)![MUZIEKNOTEN.jpg](/MUZIEKNOTEN.jpg)
