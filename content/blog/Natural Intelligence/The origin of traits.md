@@ -165,3 +165,7 @@ Beside the fact that it appears that the basics of some traits were there, genet
 The number of traits worms have is estimate at between 1000 and 3000 and the number of (more complex) traits humans have is estimated at between 10.000 and 20.000). So humans have 5% more genes and the genome is three times longer. But the number of (partly more complex) traits could be about 12 times more (average between 3.3 and 20 times). This can only be explained if in reality the number of traits in worms is much bigger than the mentioned number, but most of them are just switched off.
 
 ![houses.png](/houses.png)
+
+Well know is the The Chickenosaurus Project lead by Jack Horner and supported by may others. The idea of this project is using genetic material of chickens to reverse the evolutionary process and so to create a creature resembling their dinosaur ancestors out of this DNA. This is done by manipulating the dormant (or atavistic) genes that were active in their dinosaur ancestors and surpress other genes. By manipulating these genes, scientists might reactivate traits like snout in stead of beak, forelimbs instead of wings and dinosaur-like tail. Some progress have been made like altering chicken embryos to develop snout-like structures instead of beaks. The logic behind this project and the results so far seem to support The Excitation Theory (and not the Evolution Theory), that evolution is indeed a process of switching on and off of genes and molecular processes.
+
+![Chickenosaurus.jpeg](/Chickenosaurus.jpeg){style="height: 300px; margin: 0 auto;"}
