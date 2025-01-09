@@ -168,6 +168,12 @@ By the way: if you wonder if indeed the genetic differences (genotype) between a
 
 Research indicates that the adaptive evolution of mankind after ‘the split’ was relatively limited (which by the way I can’t follow) and that the adaptive evolution of chimpanzees was significantly bigger. But, maybe surprisingly, in the past not so much research has bene done in relation to the development of the human brain. Ethical issues could be the reason behind that.
 
+There is an evolution theory based on the fact that during life some species can adapt themselves to changing circumstances. And that these changes can be inherited by the offspring of these species. Implicating an evolutionary process with the speed of light compared with the speed of this process according to the traditional Evolution Theory. There are a lot of species which respond to poor quality diets by increasing their food intake, enlarging digestive organs, and increasing the capacity of the digestive tract. This kind of adaptation is named Plasticity and it allows individuals to 'fit' their phenotype to different environments. One can imagine that this capacity can present an evolutionary advantage and so can present ‘the survival of the fittest’. This is something within the limits of the Evolution Theory. But assuming that this can become the start of a new or changed trait or even species, is way outside these limits.
+
+If you read that external circumstances can trigger this adaptation process and if it appears that Plasticity is limited to one or just a few traits of a species, this adaptation process could be an extreme form of active susceptibility.
+
+![plasticity zwart.png](/plasticity%20zwart.png)
+
 The three diagrams below more or less summarize the possible evolutionary processes concerning the population of a species and its better fit. This is a schematic presentation bases on the assumption that the biosphere keeps constant and so offers a living to the same population size.
 
 ![evo without iso.png](/evo%20without%20iso.png){style="height: 300px; margin: 0 auto;"}![grafiek specificatie volgens ET.png](/grafiek%20specificatie%20volgens%20ET.png){style="height: 300px; margin: 0 auto;"}![grafiek directional ET.png](/grafiek%20directional%20ET.png){style="height: 300px; margin: 0 auto;"}
