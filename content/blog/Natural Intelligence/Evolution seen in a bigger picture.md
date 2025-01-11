@@ -1,1 +1,1 @@
-# Evolution Seen In A Bigger Picture page
+# Evolution Seen In A Bigger Picture
