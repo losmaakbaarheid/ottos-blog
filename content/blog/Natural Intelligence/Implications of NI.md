@@ -4,7 +4,7 @@ There is question unanswered. If a region of DNA or a combination of regions of 
 
 A study (\_Feather Development Genes and Associated Regulatory Innovation Predate the Origin of Dinosauria\_ by Craig B. Lowe at al.) published in the journal ‘Molecular Biology and Evolution’ showed that the DNA code that birds share and gives them their feathers has already been in DNA for hundreds of millions of years before anything resembling a feather appeared on a species.
 
-![artikel feathers.png](/artikel%20feathers.png){style="height: 50px; margin: 0 auto;"}
+![artikel feathers.png](/artikel%20feathers.png){style="height: 150px; margin: 0 auto;"}
 
 About 100 million years before the first bird flew, almost the complete genetic code to make a feather was already present in the DNA of the ancestors of birds. This study also indicate that the shrinking of the body size and growing of their limbs made it possible for birds to get into the air (‘survival of an internal fit’). By the way: also humans carry the feather code. The reason that we don’t have feathers is that genes can do different job in relation to the production of proteins. So yes a switch could also results in feathers on humans.
 
@@ -34,7 +34,7 @@ To give another example.
 
 **Scenario 3:** Due to a revolutionary evolution from time to time some fishes acquired (by switching on a certain DNA-region) the capability to survive out of the water for a short period of time. For one or a few species of fish this new trait could be fitted in. This was an (inheritable) focused trait but none of the fishes with this mutation was aware of it. So the group of fishes with this trait is growing steadily. At one moment one of them by coincidence (coincidence x < coincidence) discovered this new trait and made use of it to catch prey that was out of reach for his a her colleagues. And this new fit started from there on its evolution.
 
-![curious fish1.png](/curious%20fish1.png)
+![curious fish1.png](/curious%20fish1.png){style="height: 300px; margin: 0 auto;"}
 
 **What do you think is the most plausible scenario? The first one, the second or the last?**
 
