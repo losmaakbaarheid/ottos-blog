@@ -5,5 +5,8 @@ export default defineNuxtConfig({
     '/': { prerender: true }
   },
 
-  compatibilityDate: '2025-01-11'
+  compatibilityDate: '2025-01-11',
+  content: {
+    documentDriven: true,
+  }
 })

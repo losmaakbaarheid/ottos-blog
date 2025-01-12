@@ -7,8 +7,14 @@
     "generate": "nuxi generate",
     "preview": "nuxi preview"
   },
+  "dependencies": {
+    "vue": "latest"
+
+  },
   "devDependencies": {
     "content-wind": "latest",
-    "nuxt": "latest"
+    "nuxt": "latest",
+    "typescript": "latest",
+    "vue-tsc": "latest"
   }
 }
