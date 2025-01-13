@@ -3,7 +3,10 @@ const { page } = useContent();
 const children = await useAsyncData("children", () =>
   queryContent({
     where: {
-      _path: { $contains: page.value._path },
+      _path: {
+        $ne: page.value._path,
+        $contains: page.value._path,
+      },
     },
   }).find()
 );
