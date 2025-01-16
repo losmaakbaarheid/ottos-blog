@@ -1,2 +1,4 @@
+# Excitatus Theory
+
 ::toc-children
 ::
