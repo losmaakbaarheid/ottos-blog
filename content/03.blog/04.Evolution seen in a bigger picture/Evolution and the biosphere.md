@@ -1,3 +1,15 @@
 # Evolution And The Biosphere
 
 ![revo followed by evo.png](/revo%20followed%20by%20evo.png)![mankind represents.png](/mankind%20represents.png)
+
+Time to look at the bigger picture. The evolution according to the Evolution Theory looks in my opinion more or less like a umbellifer. New branches are positioned under a small angle to their ancestor branches. Below a photo in 3D and schematic picture of this in 2D.
+
+![schermbloem.png](/schermbloem.png)
+
+This results into ‘flowers’ (symbol for species in general; not limited to flowers) forming more or less an umbrella like screen, expanding in time, in relatively close proximity of each other. A lot of the space around the spreading stem stays empty or is only partly filled. Every new species grows in time very slowly away from his or her ancestor, leaving a long trail of transition forms or even of ‘missing links’. The differences between ancestors and new species are quiet small and both have traits that are (especially om the beginning) closely related; not clearly different traits that would excel in the same or different biospheres. There are many transition forms needed with each time a bit adjusted traits, that characterizes each of these forms, before a significant distance is realized compared to species 1, with which it all begins. And so before you can really speak of a new species characterized by a different and new trait. An extremely time consuming process.
+
+When you compare this with a schematic picture of NI (especially with evolutionary revolution) you get a very different result: see the picture below. Each branch shows a new or principally changed focused trait. To illustrate this every angle is made 90 degrees. So the angle is way bigger and can go in any direction. The result is a 3D beam structure with beams (species) going in every possible direction. These perpendicular angels are possible due to the fact that the DNA regions that determines the new trait are basically already there and therefor just have to be switched on by coincidence or by a trigger. The consequence of this different way of branching is easy to see this way: the evolution of species according to NI does not only goes much faster but is more principal and also leads to a way better filling of the biosphere by a huge amount of species that are less competing with each other and that are far more complementing each other.
+
+So what to make out of this? My theory is that the ‘NI-tree’ resembles the first step of the evolution of life or of a principle new type/family of species and the ‘ET-tree’ resembles the following phases of developing new species within one family. So most branches in the NI-tree end eventually in a branch of the ET-type. This combination will give by the far best filling of all biospheres. So indeed a mix of the three models that have become standard in attempts to understand the nature of evolutionary divergence in fossil lineages: directional change, unbiased random walk, and stasis.
+
+![NI vertakking + ET vertakking.png](/NI%20vertakking%20%2B%20ET%20vertakking.png)
