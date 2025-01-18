@@ -46,4 +46,4 @@ These sources tell us that fossils show that many unique morphological features 
 
 I already wrote that the losing of weight of the ancestors of birds was probably a focused trait. The above findings make it hard to deny that. And  there were already ‘useless’ traits waiting to get their chance (waiting for an internal fit). And the evolution, after the moment these traits seized this chance, went way more rapidly and directionally than the Evolution Theory could ever be able to explain. To summarize: the evolution of birds looks very much like initiated by a revolutionary evolution with as result that losing weight became the new and decisive focused trait waiting for an internal and external fit.
 
-![ancestors of birds2.jpeg.png](/ancestors%20of%20birds2.jpeg.png)
+![ancestors of birds2.jpeg.png](/ancestors%20of%20birds2.jpeg.png){style="height: 300px; margin: 0 auto;"}
