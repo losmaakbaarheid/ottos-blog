@@ -33,3 +33,9 @@ Another example of an abrupt evolutionary development was the first appearance o
 The evolution of birds and the presence of the DNA-region concerning feathers long before the first birds appeared on the face of the earth, have already been discussed. But there are more interesting things to tell about the evolution of birds. First I will present some information I found in articles like “*Mass extinction 66 million years ago triggered rapid evolution of bird genomes*”.
 
 ![art mass extiction birds.png](/art%20mass%20extiction%20birds.png)
+
+Shortly after an asteroid slammed into Earth, 66 million years ago, the evolutionary story for the early ancestors of birds began. An University of Michigan study has identified important changes in birds’ genomes sparked by the mass extinction. The researchers found that the mass extinction event sparked shifts in the nucleotide composition. They also found that these shifts seem to be connected to the way birds develop as babies, their adult size and their metabolism. Within approximately 3 million to 5 million years of the mass extinction, surviving bird lineages tended to develop smaller body sizes. So changes in DNA composition were associated with the mentioned mass extinction. The study emphasizes that the extinction events can actually influence organismal biology by altering important aspects of how genomes evolve.
+
+If I understand this well, one could read that an external trigger (the slamming of the asteroid into the earth) changed the focused traits of the concerning species so birds could survive this catastrophe and start their evolution. And body weight played a decisive role in this evolution. And also is stated that this happened in more than one lineage at the same moment.
+
+![art how birds became birds.png](/art%20how%20birds%20became%20birds.png)
