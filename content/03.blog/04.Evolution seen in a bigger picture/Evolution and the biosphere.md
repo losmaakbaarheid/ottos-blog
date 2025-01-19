@@ -80,4 +80,4 @@ It would not surprise me at all if the amount of different kinds of species expl
 
 What will be the end of cars running on fossil energy? Yes indeed the electric car; an alternative that more or less suddenly appears to be the better solution for our goals concerning the future of our world. So did the mammals become a success because the extinction of dinosaurs gave them the space to do so or did the success of mammals take away the space for the dinosaurs? The all accepted theory is the first but I wonder if the second scenario isn’t what really happened or at least played a significant role. If you look at the NI-tree is it possible that the same part of the biosphere is reached by different branches coming from different sides (implicating different traits), so a strong competitions will be the result of this: hunting in the same space for the same prey in different ways and based on different traits and so capacities. In our time you see also these kinds of processes in a smaller scale happening due to the import of so called exotic species which push away local plants, fishes and so on.
 
-
+![winning electric car1.png](/winning%20electric%20car1.png)
