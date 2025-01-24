@@ -12,7 +12,7 @@ When you compare this with a schematic picture of NI (especially with evolutiona
 
 So what to make out of this? My theory is that the ‘NI-tree’ resembles the first step of the evolution of life or of a principle new type/family of species and the ‘ET-tree’ resembles the following phases of developing new species within one family. So most branches in the NI-tree end eventually in a branch of the ET-type. This combination will give by the far best filling of all biospheres. So indeed a mix of the three models that have become standard in attempts to understand the nature of evolutionary divergence in fossil lineages: directional change, unbiased random walk, and stasis.
 
-![NI vertakking + ET vertakking.png](/NI%20vertakking%20%2B%20ET%20vertakking.png)
+![NI vertakking + ET vertakking.png](/NI%20vertakking%20%2B%20ET%20vertakking.png){style="margin: auto"}
 
 Revolutionary evolution followed by evolution (due to random and/or directional mutations) leads to an optimum filling of all biospheres.
 
@@ -26,13 +26,13 @@ Mammal ancestors became warm-blooded in burst of Late Triassic evolution (source
 
 Control of body temperature is also associated with greater control over development, and around the same time as endothermy is estimated to have evolved, mammaliamorphs also started to develop larger brains and more complex nervous systems. So potential focused traits seizing this opportunity to become focused traits. The origin of mammalian endothermy is one of the great unsolved mysteries of palaeontology. Many different approaches have been used to try to predict when it first evolved, but they have often given vague or conflicting results. So, yes, switching on a gene or genes that already was/were present in DNA could be an explanation: no outside circumstances but internal circumstances and an example of revolutionary evolution. Maybe first latent present as a potential focused trait waiting for the right internal conditions to really become a focused trait.
 
-![sweating giraffe.jpg](/sweating%20giraffe.jpg)
+![sweating giraffe.jpg](/sweating%20giraffe.jpg){style="margin: auto"}
 
 Another example of an abrupt evolutionary development was the first appearance of mammals. Robert Carroll, a palaeontologist at McGill University, argues in *Trends in Ecology and Evolution* that “*The extreme speed of anatomical change and adaptive radiation during this brief time period requires explanations that go beyond those proposed for the evolution of species within the modern biota*.” Further on it is stated that the (micro)evolution does not provide a satisfactory explanation for this extraordinary burst of novelty and concludes that the major evolutionary transitions in animal evolution still remain to be causally explained”. Some paragraphs back I already wrote that complex evolutionary transitions are impossible to explain on the basis of ‘survival of the fittest’ and ‘random mutations’. Switching on genes, that already were (for a long time) present in DNA can be an explanation. In combination with new focused traits and maybe also a ‘package deal’.
 
 The evolution of birds and the presence of the DNA-region concerning feathers long before the first birds appeared on the face of the earth, have already been discussed. But there are more interesting things to tell about the evolution of birds. First I will present some information I found in articles like “*Mass extinction 66 million years ago triggered rapid evolution of bird genomes*”.
 
-![art mass extiction birds.png](/art%20mass%20extiction%20birds.png)
+![art mass extiction birds.png](/art%20mass%20extiction%20birds.png){style="margin: auto"}
 
 Shortly after an asteroid slammed into Earth, 66 million years ago, the evolutionary story for the early ancestors of birds began. An University of Michigan study has identified important changes in birds’ genomes sparked by the mass extinction. The researchers found that the mass extinction event sparked shifts in the nucleotide composition. They also found that these shifts seem to be connected to the way birds develop as babies, their adult size and their metabolism. Within approximately 3 million to 5 million years of the mass extinction, surviving bird lineages tended to develop smaller body sizes. So changes in DNA composition were associated with the mentioned mass extinction. The study emphasizes that the extinction events can actually influence organismal biology by altering important aspects of how genomes evolve.
 
@@ -74,7 +74,7 @@ I am talking about the implications of NI. One of the most discussed moments dur
 
 If we look at that side of the ‘equation’ other possible courses come into view. For instance an external trigger that had a negative and deteriorating effect on the DNA region defining their Natural Intelligence. Yes for instance the famous meteorite. Or the susceptibility of the concerning DNA region, so their focused traits, didn’t correspond any longer with the direction of a better fit. Or the concerning region in the DNA of mammals and other types of species gave a clearly better result in that respect. Or maybe they reached the maximum of their focussed traits and a decline followed.
 
-![extinction dino.jpg](/extinction%20dino.jpg)
+![extinction dino.jpg](/extinction%20dino.jpg){style="margin: auto"}
 
 It would not surprise me at all if the amount of different kinds of species exploded during or even shortly before, and so not after, the extinction process of the dinosaurs started. You can even imagine that the NI of dinosaurs was less developed than that of mammals so they were not able to adjust fast enough to the changing circumstances opposite to mammals. No capabilities or a not strong enough capabilities for the needed evolution, considering the impact and acute consequences of the meteorite hitting the earth. So evolution itself led to the survival of species with some kind of favourable NI, originated maybe just from a random mutation. But the already quoted article about the ‘sudden’ burst of birds in the same period looks like an indication that this was not random at all and triggered by this catastrophic event.
 
@@ -88,8 +88,8 @@ Extinction, like described above, is considered to be the result of not being fi
 
 The loss of a trait can have a huge impact, but compensation could also be an option. Like mankind starting to smell less and less, possibly compensated by hunting prey by using ears and sight. I have had dogs and their sight is less than that of humans. Losing the focus on an trait also doesn’t have to be lethal. If this trait has developed over the years towards an appropriate level, or if there are also other effective (focused) traits or if there is a new focused trait, there are opportunities to live on and maybe to make a change in the direction of the evolution. So choosing another way of hunting (for instance not individually but in groups), choosing other prey, operating by night instead of by day and so on.
 
-![dead animals.png](/dead%20animals.png)
+![dead animals.png](/dead%20animals.png){style="margin: auto"}
 
 I would like to finish this chapter with another example of extinction. Yes a tricky one but nevertheless something I would like to speculate on. I am talking about the disappearance of the Mayans living in the southern lowlands in South America at the end of the first millennium. Long before Spanish conquistadores started their bloody job in these parts of America. Before the Mayans vanished from the face of the earth they had a huge empire with many big cities, high pyramid’s, temples and so on. Even today new remnants are found of impressive cities overgrown by trees. It is still a big mystery how such a strong and elaborated civilisation could have disappeared so completely from the face of the earth without leaving a clou. Many suggestions have been made like drought, overpopulation, environmental degradation, warfare and shifting trade routes. Or a combination of these factors. But what about an internal instead of external factor? Maybe a focused trait changed in another one which had a negative effect on the health of the Mayans, or on some essential traits like intelligence, the digestion of food or the quality of vision. The inheritance of a negative focused trait can finish off a civilisation within a few generations.
 
-![maya.jpg](/maya.jpg)
+![maya.jpg](/maya.jpg){style="margin: auto"}
