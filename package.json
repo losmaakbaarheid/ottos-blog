@@ -8,11 +8,14 @@
     "preview": "nuxi preview"
   },
   "dependencies": {
+    "@nuxt/content": "^3.0.0",
+    "@nuxtjs/color-mode": "^3.5.2",
+    "@nuxtjs/tailwindcss": "^6.13.1",
+    "@tailwindcss/typography": "^0.5.16",
     "vue": "latest"
-
   },
   "devDependencies": {
-    "content-wind": "latest",
+    "@nuxt/icon": "^1.10.3",
     "nuxt": "latest",
     "typescript": "latest",
     "vue-tsc": "latest"

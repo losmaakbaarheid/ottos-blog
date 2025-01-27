@@ -1,10 +1,18 @@
 <script setup lang="ts">
-const { prev, next } = useContent();
+const route = useRoute();
+const { data: surroundings } = await useAsyncData("surroundings", () => {
+  return queryCollectionItemSurroundings("content", route.path);
+});
+const [previousItem, nextItem] = surroundings.value!;
 </script>
 
 <template>
-  <div>
-    <NuxtLink v-if="prev" :to="prev._path">{{ prev.title }}</NuxtLink>
-    <NuxtLink v-if="next" :to="next._path">{{ next.title }}</NuxtLink>
-  </div>
+  <nav class="flex justify-between">
+    <NuxtLink v-if="previousItem" :to="previousItem.path"
+      >&lt; {{ previousItem.title }}</NuxtLink
+    >
+    <NuxtLink v-if="nextItem" :to="nextItem.path"
+      >{{ nextItem.title }} &gt;</NuxtLink
+    >
+  </nav>
 </template>

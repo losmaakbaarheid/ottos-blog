@@ -1,28 +1,15 @@
 <script setup lang="ts">
-const { page } = useContent();
-const children = await useAsyncData("children", () =>
-  queryContent({
-    where: {
-      _path: {
-        $ne: page.value._path,
-        $contains: page.value._path,
-      },
-    },
-  }).find()
-);
-
-console.log(children);
+const route = useRoute();
+const children = await queryCollection("content")
+  .where("path", "<>", route.path)
+  .where("path", "LIKE", `${route.path}%`)
+  .all();
 </script>
 
 <template>
-  <div>
-    test test
-    <ul v-if="children?.data.value">
-      <li v-for="link in children.data.value" :key="link._id">
-        <NuxtLink :to="{ path: link._path }">
-          {{ link.title }}
-        </NuxtLink>
-      </li>
-    </ul>
-  </div>
+  <nav v-if="children" v-for="link in children" :key="link.id">
+    <NuxtLink :to="{ path: link.path }">
+      {{ link.title }}
+    </NuxtLink>
+  </nav>
 </template>
