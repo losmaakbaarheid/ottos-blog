@@ -15,15 +15,25 @@ export default defineNuxtConfig({
   },
 
   compatibilityDate: "2025-01-11",
+  icon: {
+    aliases: {
+      'dark-mode': 'ph:moon-bold',
+      'light-mode': 'ph:sun-bold'
+    }
+  },
   content: {
     preview: {
       api: "https://api.nuxt.studio",
     },
-    highlight: {
-      // See the available themes on https://github.com/shikijs/shiki/blob/main/docs/themes.md#all-theme
-      theme: {
-        dark: 'github-dark',
-        default: 'github-light'
+    build: {
+      markdown: {
+        highlight: {
+          // See the available themes on https://github.com/shikijs/shiki/blob/main/docs/themes.md#all-theme
+          theme: {
+            dark: 'github-dark',
+            default: 'github-light'
+          }
+        }
       }
     }
   },

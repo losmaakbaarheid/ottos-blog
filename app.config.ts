@@ -6,10 +6,5 @@ export default defineAppConfig({
     github: '',
     mastodon: ''
   },
-  nuxtIcon: {
-    aliases: {
-      'dark-mode': 'ph:moon-bold',
-      'light-mode': 'ph:sun-bold'
-    }
-  }
+  
 })

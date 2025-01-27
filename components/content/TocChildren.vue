@@ -7,7 +7,7 @@ const children = await queryCollection("content")
 </script>
 
 <template>
-  <nav v-if="children" v-for="link in children" :key="link.id">
+  <nav v-if="children?.length" v-for="link in children" :key="link.id">
     <NuxtLink :to="{ path: link.path }">
       {{ link.title }}
     </NuxtLink>
