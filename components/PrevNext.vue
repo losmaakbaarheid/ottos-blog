@@ -7,7 +7,7 @@ const [previousItem, nextItem] = surroundings.value!;
 </script>
 
 <template>
-  <nav class="flex justify-between font-semibold">
+  <nav class="flex justify-between font-semibold my-4">
     <NuxtLink v-if="previousItem" :to="previousItem.path"
       >&lt; {{ previousItem.title }}</NuxtLink
     >
