@@ -15,6 +15,7 @@
     "vue": "latest"
   },
   "devDependencies": {
+    "@iconify-json/ph": "^1.2.2",
     "@nuxt/icon": "^1.10.3",
     "nuxt": "latest",
     "typescript": "latest",
