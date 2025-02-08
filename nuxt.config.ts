@@ -1,12 +1,20 @@
 export default defineNuxtConfig({
-  ssr: false,
   modules: [
     "@nuxt/content",
     "@nuxtjs/tailwindcss",
     "@nuxtjs/color-mode",
     "@nuxt/icon",
   ],
-
+  app: {
+    head: {
+      meta: [
+        {
+          "http-equiv": 'content-security-policy',
+          content: 'upgrade-insecure-requests'
+        }
+      ]
+    }
+  },
   // https://color-mode.nuxtjs.org
   colorMode: {
     classSuffix: "",
@@ -20,7 +28,8 @@ export default defineNuxtConfig({
     aliases: {
       'dark-mode': 'ph:moon-bold',
       'light-mode': 'ph:sun-bold'
-    }
+    },
+
   },
   content: {
     preview: {
