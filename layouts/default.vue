@@ -9,4 +9,5 @@
     </main>
     <PrevNext />
   </div>
+  <div class="max-w-2xl mt-2 m-auto"><Utterances /></div>
 </template>
