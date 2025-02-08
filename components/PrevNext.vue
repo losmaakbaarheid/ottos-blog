@@ -1,9 +1,11 @@
 <script setup lang="ts">
 const route = useRoute();
-const { data: surroundings } = await useAsyncData("surroundings", () => {
-  return queryCollectionItemSurroundings("content", route.path);
-});
-const [previousItem, nextItem] = surroundings.value!;
+const surroundings = await queryCollectionItemSurroundings(
+  "content",
+  route.path
+);
+
+const [previousItem, nextItem] = surroundings;
 </script>
 
 <template>
