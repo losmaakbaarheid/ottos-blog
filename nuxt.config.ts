@@ -29,7 +29,7 @@ export default defineNuxtConfig({
       'dark-mode': 'ph:moon-bold',
       'light-mode': 'ph:sun-bold'
     },
-
+    serverBundle: 'local',
   },
   content: {
     preview: {
