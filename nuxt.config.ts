@@ -15,6 +15,12 @@ export default defineNuxtConfig({
       ]
     }
   },
+  // see: https://github.com/nuxt/content/issues/3111#issuecomment-2650564410
+  nitro: {
+    prerender: {
+      autoSubfolderIndex: false
+    },
+  },
   // https://color-mode.nuxtjs.org
   colorMode: {
     classSuffix: "",
