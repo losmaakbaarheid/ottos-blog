@@ -35,7 +35,9 @@ export default defineNuxtConfig({
       'dark-mode': 'ph:moon-bold',
       'light-mode': 'ph:sun-bold'
     },
-    serverBundle: 'local',
+    clientBundle: {
+      icons: ['ph:moon-bold', 'ph:sun-bold']
+    }
   },
   content: {
     preview: {
