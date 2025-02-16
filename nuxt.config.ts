@@ -12,6 +12,18 @@ export default defineNuxtConfig({
           "http-equiv": 'content-security-policy',
           content: 'upgrade-insecure-requests'
         }
+      ],
+      script: [
+        {
+          innerHTML: `
+globalThis.remark_config = {
+  host: "${process.env.REMARK42_HOST_URL ?? 'http://127.0.0.1:8080'}",
+  site_id: "${process.env.REMARK42_SITE_ID ?? 'remark'}"
+}
+!function(e,n){for(var o=0;o<e.length;o++){var r=n.createElement("script"),c=".js",d=n.head||n.body;"noModule"in r?(r.type="module",c=".mjs"):r.async=!0,r.defer=!0,r.src=remark_config.host+"/web/"+e[o]+c,d.appendChild(r)}}(remark_config.components||["embed"],document);`,
+          async: true,
+          defer: true
+        }
       ]
     }
   },

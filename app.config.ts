@@ -6,5 +6,8 @@ export default defineAppConfig({
     github: '',
     mastodon: ''
   },
-  
+  remark42: {
+    host: 'http://127.0.0.1:8080/',
+    siteId: 'remark'
+  }
 })
