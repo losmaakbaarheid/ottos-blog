@@ -1,7 +1,9 @@
 <template>
-  <div id="hyvorComments">
-    <Comments :website-id="12602" :page-id="route.path" :colors="colorMode" />
-  </div>
+  <ClientOnly>
+    <div id="hyvorComments">
+      <Comments :website-id="12602" :page-id="route.path" :colors="colorMode" />
+    </div>
+  </ClientOnly>
 </template>
 
 <script setup lang="ts">

@@ -1,5 +1,7 @@
 <template>
-  <a href="#hyvorComments"><CommentCount :page-id="route.path" /></a>
+  <ClientOnly>
+    <a href="#hyvorComments"><CommentCount :page-id="route.path" /></a>
+  </ClientOnly>
 </template>
 
 <script setup lang="ts">
@@ -8,9 +10,11 @@ import { CommentCounts } from "@hyvor/hyvor-talk-base";
 
 const route = useRoute();
 
-onMounted(() => {
-  CommentCounts.load({
-    "website-id": 12602,
+if (import.meta.client) {
+  onMounted(() => {
+    CommentCounts.load({
+      "website-id": 12602,
+    });
   });
-});
+}
 </script>
