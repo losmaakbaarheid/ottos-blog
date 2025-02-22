@@ -31,13 +31,11 @@ export default defineNuxtConfig({
 
   compatibilityDate: "2025-01-11",
   icon: {
-    aliases: {
-      'dark-mode': 'ph:moon-bold',
-      'light-mode': 'ph:sun-bold'
-    },
     clientBundle: {
-      icons: ['ph:moon-bold', 'ph:sun-bold']
-    }
+      icons: ['ph:moon-bold', 'ph:sun-bold'],
+    },
+    serverBundle: false,
+
   },
   content: {
     preview: {
