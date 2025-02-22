@@ -5,10 +5,25 @@
     <main
       class="max-w-none prose dark:prose-invert prose-pre:bg-gray-100 dark:prose-pre:bg-gray-900 hover:prose-a:text-primary-400 prose-a:font-normal prose-a:no-underline prose-a:border-dashed prose-a:border-b hover:prose-a:border-solid hover:prose-a:border-primary-400"
     >
-      <HyvorCommentCount />
+      <HyvorCommentCount v-if="!disableComments" />
       <slot />
     </main>
     <PrevNext />
   </div>
-  <div class="max-w-2xl mt-2 m-auto"><HyvorComments /></div>
+  <div v-if="!disableComments" class="max-w-2xl mt-2 m-auto">
+    <HyvorComments />
+  </div>
 </template>
+
+<script setup lang="ts">
+const route = useRoute();
+
+const disableComments = ref(false);
+
+watchEffect(() => {
+  const { data: page } = useAsyncData(route.path, () =>
+    queryCollection("content").path(route.path).first()
+  );
+  disableComments.value = page.value?.disableComments ?? false;
+});
+</script>
