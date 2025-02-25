@@ -1,11 +1,10 @@
 import type { ContentCollectionItem } from "@nuxt/content";
+import type { DeepReadonly } from "vue";
 
-let structuredContent:
-  | { root: Content[]; map: Map<string, Content> }
-  | undefined;
+let structuredContent: RootContent | undefined;
 
 export const getStructuredContent = async () => {
-  return (structuredContent ??= await _getStructuredContent());
+  return (structuredContent ??= (await _getStructuredContent()) as RootContent);
 };
 
 const _getStructuredContent = async () => {
@@ -49,6 +48,11 @@ const _getStructuredContent = async () => {
     root: result,
     map: pathMap,
   };
+};
+
+type RootContent = {
+  readonly root: readonly Content[];
+  readonly map: ReadonlyMap<string, DeepReadonly<Content>>;
 };
 
 export type Content = {

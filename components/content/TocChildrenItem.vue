@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import type { Content } from "./TocChildren.vue";
 import ThisComponent from "./TocChildrenItem.vue";
 
 defineProps<{ content: Content }>();
