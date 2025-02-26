@@ -1,3 +1,7 @@
+---
+disableComments: true
+---
+
 # Excitatus Theory
 
 ::toc-children-collapsable
