@@ -1,1 +1,0 @@
-import{d as a,i as o,R as s,w as f,U as p,C as u}from"./DByT-lZJ.js";const d=a({__name:"ProseA",props:{href:{type:String,default:""},target:{type:String,default:void 0,required:!1}},setup(t){const e=t;return(r,_)=>{const n=u;return o(),s(n,{href:e.href,target:e.target},{default:f(()=>[p(r.$slots,"default")]),_:3},8,["href","target"])}}});export{d as default};
