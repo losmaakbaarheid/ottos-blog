@@ -38,7 +38,7 @@ export default defineComponent({
       if (pathMeta.parent && pathMeta.parent.item.path !== props.rootPath) {
         return [createSiblingsAndParents(pathMeta, props.rootPath, createGroup), showAllBtn];
       }
-      return [h("ul", createGroup()), showAllBtn];
+      return [createGroup(), showAllBtn];
     };
   },
 });
