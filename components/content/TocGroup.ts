@@ -1,5 +1,6 @@
 import { NuxtLink } from "#components";
 import type { DeepReadonly, VNode } from "vue";
+import TocChildren from "./TocChildren.vue";
 
 export default defineComponent({
   name: "TocGroup",
@@ -23,14 +24,21 @@ export default defineComponent({
 
     const pathMeta = structuredContent.map.get(path.value)!;
 
+    const expanded = ref(false)
+
     return () => {
+      if (expanded.value) {
+        return [h(TocChildren), h('button', {type: 'button', onClick: () => expanded.value = !expanded.value, class: 'underline font-black'}, 'show less')]
+      }
+
       const createGroup = () =>
         createGroupLinkItems(pathMeta, props.maxSiblings).vnode;
 
+      const showAllBtn =  h('button', {type: 'button', onClick: () => expanded.value = !expanded.value, class: 'underline font-black'}, 'show all')
       if (pathMeta.parent && pathMeta.parent.item.path !== props.rootPath) {
-        return createSiblingsAndParents(pathMeta, props.rootPath, createGroup);
+        return [createSiblingsAndParents(pathMeta, props.rootPath, createGroup), showAllBtn];
       }
-      return h("ul", createGroup);
+      return [h("ul", createGroup), showAllBtn];
     };
   },
 });
@@ -52,6 +60,9 @@ function createSiblingsAndParents(
       parentList.push(
         h(
           "li",
+          {
+            value: parent.prev.index + 1
+          },
           h(
             NuxtLink,
             { to: parent.prev.item.path },
@@ -62,10 +73,12 @@ function createSiblingsAndParents(
     }
 
     parentList.push(
-      h("li", [
+      h("li", {
+        value: parent.index + 1
+      },[
         h(
           NuxtLink,
-          { to: parent.item.path, class: "!font-extrabold" },
+          { to: parent.item.path, class: "!font-bold" },
           () => parent.item.title
         ),
         parent === pathMeta.parent ? createGroup() : undefined,
@@ -76,6 +89,9 @@ function createSiblingsAndParents(
       parentList.push(
         h(
           "li",
+          { 
+            value: parent.next.index + 1
+          },    
           h(
             NuxtLink,
             { to: parent.next.item.path },
@@ -84,10 +100,10 @@ function createSiblingsAndParents(
         )
       );
       if (parent.next.next) {
-        parentList.push(h("li", { "aria-hidden": "true" }, "..."));
+        parentList.push(h("li", { "aria-hidden": "true",  }, "..."));
       }
     }
-    elements.unshift(h("ul", parentList));
+    elements.unshift(h("ol", parentList));
     currentParent = currentParent.parent;
   }
   return elements;

@@ -26,8 +26,10 @@ const _getStructuredContent = async () => {
     if (children.length === 0) return [] as Content[];
 
     let prev: Content | undefined;
+    let index = 0;
     for (const child of children) {
       const content = {
+        index: index++,
         item: child,
         prev: prev,
         parent: parent,
@@ -56,6 +58,7 @@ type RootContent = {
 };
 
 export type Content = {
+  index: number
   item: ContentCollectionItem;
   parent?: Content;
   next?: Content;
