@@ -32,13 +32,13 @@ export default defineComponent({
       }
 
       const createGroup = () =>
-        createGroupLinkItems(pathMeta, props.maxSiblings).vnode;
+        createGroupLinkItems(pathMeta, props.maxSiblings, true).vnode;
 
       const showAllBtn =  h('button', {type: 'button', onClick: () => expanded.value = !expanded.value, class: 'underline font-black'}, 'show all')
       if (pathMeta.parent && pathMeta.parent.item.path !== props.rootPath) {
         return [createSiblingsAndParents(pathMeta, props.rootPath, createGroup), showAllBtn];
       }
-      return [h("ul", createGroup), showAllBtn];
+      return [h("ul", createGroup()), showAllBtn];
     };
   },
 });
@@ -111,19 +111,20 @@ function createSiblingsAndParents(
 
 function createGroupLinkItems(
   content: DeepReadonly<Content>,
-  maxSiblings: number
+  maxSiblings: number,
+  isActive: boolean
 ): { vnode: VNode; items: number } {
   let prev = content.prev;
   let next = content.next;
   const children = content.children?.length
-    ? createGroupLinkItems(content.children[0], maxSiblings)
+    ? createGroupLinkItems(content.children[0], maxSiblings, false)
     : null;
   let siblingCount = children?.items ?? 0;
   const group = [
     h("li", [
       h(
         NuxtLink,
-        { to: content.item.path, class: "!font-black" },
+        { to: content.item.path, class: isActive ? "!font-black" : undefined },
         () => content.item.title
       ),
       children?.vnode,
@@ -136,6 +137,8 @@ function createGroupLinkItems(
       group.unshift(
         h(
           "li",
+          {value: previous.index + 1}
+          ,
           h(NuxtLink, { to: previous.item.path }, () => previous.item.title)
         )
       );
@@ -147,6 +150,8 @@ function createGroupLinkItems(
       group.push(
         h(
           "li",
+          {value: nextItem.index + 1},
+
           h(NuxtLink, { to: nextItem.item.path }, () => nextItem.item.title)
         )
       );
@@ -154,5 +159,12 @@ function createGroupLinkItems(
       siblingCount++;
     }
   }
+  if (prev) {
+    group.unshift(h('li', { 'aria-hidden': true} ,'...'))
+  }
+  if (next) {
+    group.push(h('li', { 'aria-hidden': true} ,'...'))
+  }
+
   return { vnode: h("ol", group), items: group.length };
 }
