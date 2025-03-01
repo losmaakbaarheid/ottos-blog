@@ -20,10 +20,8 @@ const route = useRoute();
 
 const disableComments = ref(false);
 
-watchEffect(() => {
-  const { data: page } = useAsyncData(route.path, () =>
-    queryCollection("content").path(route.path).first()
-  );
-  disableComments.value = page.value?.disableComments ?? false;
+watchEffect(async () => {
+  const page = await queryCollection("content").path(route.path).first();
+  disableComments.value = page?.disableComments ?? false;
 });
 </script>
